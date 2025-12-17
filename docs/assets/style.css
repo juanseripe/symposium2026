@@ -1,10 +1,48 @@
 /* Hide default Minima header title */
-.site-title {
-  display: none !important;
+.site-header {
+  display: none;
 }
 
-/* Optional: reduce top padding left by header */
-.site-header {
-  border-top: none;
-  margin-top: 0;
+/* HEADER */
+.header {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.site-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* NAV BAR */
+.main-nav {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 0.75rem 0;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}
+
+.lang-switch {
+  margin-left: 2rem;
+  font-size: 0.9rem;
 }

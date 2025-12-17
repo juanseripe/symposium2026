@@ -1,19 +1,10 @@
 ---
 layout: default
-title: PhD Annual Symposium 2026
+title: Home
 ---
 
-<div style="text-align:center; margin-bottom:2rem;">
-  <img src="/symposium2026/assets/banner.jpg" alt="PhD Annual Symposium 2026 – HEC Montréal" style="max-width:100%; height:auto; border-radius:6px;" />
-</div>
-
-### Montréal · Hosted by HEC Montréal
-
-<nav style="margin: 1.5rem 0; text-align:center;">
-  <a href="call-for-papers.html" style="margin:0 1rem;">Call for Papers</a>
-  <a href="program.html" style="margin:0 1rem;">Program</a>
-  <a href="committee.html" style="margin:0 1rem;">Committee</a>
-</nav>
+{% include header.html %}
+{% include nav.html %}
 
 ---
 
