@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-{% include head.html %}
 {% include header.html %}
 {% include nav.html %}
 
