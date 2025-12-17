@@ -21,35 +21,35 @@
 
 @font-face {
   font-family: 'Visby CF';
-  src: url('/symposium2026/assets/fonts/VisbyCF/VisbyCF-Regular.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Visby CF';
-  src: url('/symposium2026/assets/fonts/VisbyCF/VisbyCF-Medium.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Visby CF';
-  src: url('/symposium2026/assets/fonts/VisbyCF/VisbyCF-Bold.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Visby Slab CF';
-  src: url('/symposium2026/assets/fonts/VisbySlab/VisbySlabCF-Regular.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/VisbySlab/VisbySlabCF-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Visby Slab CF';
-  src: url('/symposium2026/assets/fonts/VisbySlab/VisbySlabCF-Bold.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/VisbySlab/VisbySlabCF-Bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
 }
