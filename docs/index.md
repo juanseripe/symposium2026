@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-{% include header.html %}
+{% include hero.html %}
 {% include nav.html %}
 
 ---
