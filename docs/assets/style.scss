@@ -13,78 +13,6 @@
 }
 
 /* -------------------------
-   VISBY FONTS (OTF)
-   Folder structure:
-   /assets/fonts/VisbyCF/
-   /assets/fonts/VisbySlab/
-   ------------------------- */
-
-@font-face {
-  font-family: 'Visby CF';
-  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Visby CF';
-  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Medium.otf') format('opentype');
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Visby CF';
-  src: url('{{ site.baseurl }}/assets/fonts/VisbyCF/VisbyCF-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Visby Slab CF';
-  src: url('{{ site.baseurl }}/assets/fonts/VisbySlab/VisbySlabCF-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Visby Slab CF';
-  src: url('{{ site.baseurl }}/assets/fonts/VisbySlab/VisbySlabCF-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-}
-
-/* -------------------------
-   GLOBAL TYPOGRAPHY
-   ------------------------- */
-
-body {
-  font-family: 'Visby CF', sans-serif;
-  color: #000000;
-  line-height: 1.6;
-}
-
-h1, h2 {
-  font-family: 'Visby Slab CF', serif;
-  color: #002855; /* PMS 295 */
-}
-
-h3, h4, h5 {
-  font-family: 'Visby CF', sans-serif;
-  font-weight: 500;
-  color: #002855;
-}
-
-a {
-  color: #0072ce; /* PMS 285 */
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* -------------------------
    HERO BANNER
    ------------------------- */
 
@@ -103,7 +31,7 @@ a:hover {
 
 .main-nav {
   background-color: #ffffff;
-  border-bottom: 1px solid #d9d9d6; /* Cool gray 1 */
+  border-bottom: 1px solid #d9d9d6;
   padding: 0.75rem 0;
 }
 
@@ -134,5 +62,5 @@ a:hover {
 .lang-switch {
   margin-left: 2rem;
   font-size: 0.9rem;
-  color: #888b8d; /* Cool gray 8 */
+  color: #888b8d;
 }
