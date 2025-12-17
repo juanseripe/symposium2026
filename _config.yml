@@ -3,3 +3,5 @@ description: PhD Annual Symposium hosted by HEC Montréal
 theme: minima
 
 baseurl: "/symposium2026"
+css:
+  - /assets/style.scss
