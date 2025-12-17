@@ -2,9 +2,6 @@
 layout: default
 title: Home
 ---
-
-## Overview
-
 The **PhD Annual Symposium** is a flagship academic event that brings together doctoral students from the leading business schools in **Montréal**.  
 Held annually, the symposium provides a high-level forum for presenting ongoing research, exchanging ideas across disciplines, and fostering collaboration among emerging scholars.
 
