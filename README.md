@@ -1,1 +1,1 @@
-# symposium2026.github.io
+# Welcome to the 2026 Symposium organized by HEC :)
