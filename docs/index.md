@@ -12,7 +12,7 @@ title: PhD Annual Symposium 2026
 <nav style="margin: 1.5rem 0; text-align:center;">
   <a href="call-for-papers.html" style="margin:0 1rem;">Call for Papers</a>
   <a href="program.html" style="margin:0 1rem;">Program</a>
-  <a href="organizing-committee.html" style="margin:0 1rem;">Organizing Committee</a>
+  <a href="organizing-committee.html" style="margin:0 1rem;">Committee</a>
 </nav>
 
 ---
