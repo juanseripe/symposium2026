@@ -1,0 +1,10 @@
+/* Hide default Minima header title */
+.site-title {
+  display: none !important;
+}
+
+/* Optional: reduce top padding left by header */
+.site-header {
+  border-top: none;
+  margin-top: 0;
+}
