@@ -3,8 +3,7 @@ layout: default
 title: Organizing Committee – PhD Annual Symposium 2026
 ---
 
-# Organizing Committee  
-### PhD Annual Symposium 2026
+# Organizing Committee
 
 ---
 

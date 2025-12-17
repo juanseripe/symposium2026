@@ -3,8 +3,7 @@ layout: default
 title: Program – PhD Annual Symposium 2026
 ---
 
-# Program  
-### PhD Annual Symposium 2026
+# Program
 
 ---
 
