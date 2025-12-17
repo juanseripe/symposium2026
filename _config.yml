@@ -1,7 +1,3 @@
 title: PhD Annual Symposium 2026
 description: PhD Annual Symposium hosted by HEC Montréal
-theme: minima
-
 baseurl: "/symposium2026"
-css:
-  - /assets/style.scss

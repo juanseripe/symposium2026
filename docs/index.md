@@ -2,10 +2,6 @@
 layout: default
 title: Home
 ---
-{% include hero.html %}
-{% include nav.html %}
-
----
 
 ## Overview
 
@@ -34,7 +30,7 @@ The symposium brings together doctoral researchers from Montréal’s leading bu
 - **HEC Montréal**
 - **McGill University – Desautels Faculty of Management**
 - **Concordia University – John Molson School of Business**
-- - **Université du Québec à Montréal (UQAM) – École des sciences de la gestion (ESG)**
+- **Université du Québec à Montréal (UQAM) – École des sciences de la gestion (ESG)**
 - *(Additional institutions to be confirmed)*
 
 ---
