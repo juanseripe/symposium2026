@@ -73,12 +73,18 @@ body {
 }
 
 .main-nav a:hover { background: #f5f5f5; }
-.main-nav a.is-active {
+
+/* Active page link (works with either a class or aria-current) */
+.main-nav a.is-active,
+.main-nav a[aria-current="page"] {
   color: var(--accent);
   font-weight: 700;
 }
 
-.main-nav a.is-active:hover { background: transparent; }
+.main-nav a.is-active:hover,
+.main-nav a[aria-current="page"]:hover {
+  background: transparent;
+}
 
 /* Page content */
 .page-content {
@@ -108,5 +114,5 @@ hr {
 /* Small screens */
 @media (max-width: 640px) {
   :root { --pad: 16px; }
-  .hero-image { height: 200px; }
+  .hero-image { height: auto; }
 }
