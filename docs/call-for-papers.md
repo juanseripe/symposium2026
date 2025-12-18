@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Papers – PhD Annual Symposium 2026
+title: Call for Papers
 ---
 
 # Call for Papers

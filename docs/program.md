@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program – PhD Annual Symposium 2026
+title: Program
 ---
 
 # Program
