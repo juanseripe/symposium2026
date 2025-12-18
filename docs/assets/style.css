@@ -124,7 +124,7 @@ hr {
 }
 
 .footer-logo {
-  height: 34px;
+  height: 10px;
   width: auto;
   display: block;
   margin-bottom: 10px;
@@ -142,8 +142,7 @@ hr {
   gap: 8px;
 }
 
-.footer-links a,
-.footer-links a:visited {
+.footer-links a {
   color: var(--footer-fg);
   text-decoration: none;
   font-size: 14px;
@@ -160,8 +159,7 @@ hr {
   text-align: right;
 }
 
-.footer-meta a,
-.footer-meta a:visited {
+.footer-meta a {
   color: inherit;
   text-decoration: none;
 }
