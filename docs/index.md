@@ -9,7 +9,7 @@ In **2026**, the symposium will be proudly **hosted by HEC Montréal**, continui
 
 ---
 
-## Objectives
+### Objectives
 
 The symposium aims to:
 
@@ -20,7 +20,7 @@ The symposium aims to:
 
 ---
 
-## Participating Institutions
+### Participating Institutions
 
 The symposium brings together doctoral researchers from Montréal’s leading business schools, including:
 
@@ -32,7 +32,7 @@ The symposium brings together doctoral researchers from Montréal’s leading bu
 
 ---
 
-## Format
+### Format
 
 The symposium will feature:
 
@@ -45,16 +45,16 @@ Further details regarding the program structure, schedule, and submission proces
 
 ---
 
-## Hosting Institution
+### Hosting Institution
 
-### HEC Montréal
+#### HEC Montréal
 
 Founded in 1907, **HEC Montréal** is one of Canada’s leading business schools and an internationally recognized institution for research and graduate education.  
 Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to doctoral training, academic excellence, and collaboration across institutions.
 
 ---
 
-## Important Dates
+### Important Dates
 
 - **Call for papers:** To be announced  
 - **Submission deadline:** To be announced  
@@ -62,7 +62,7 @@ Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to d
 
 ---
 
-## Contact
+### Contact
 
 For inquiries related to the symposium, please contact:
 

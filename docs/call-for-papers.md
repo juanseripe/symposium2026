@@ -3,11 +3,11 @@ layout: default
 title: Call for Papers
 ---
 
-# Call for Papers
+## Call for Papers
 
 ---
 
-## Scope and Topics
+### Scope and Topics
 
 The PhD Annual Symposium welcomes research contributions from doctoral students across all areas of business and management, including (but not limited to):
 
@@ -23,7 +23,7 @@ Both theoretical and applied research are encouraged.
 
 ---
 
-## Submission Guidelines
+### Submission Guidelines
 
 - Submissions must represent **ongoing or completed doctoral research**
 - Papers may be:
@@ -35,7 +35,7 @@ Detailed submission instructions will be announced shortly.
 
 ---
 
-## Important Dates
+### Important Dates
 
 - **Call for papers opens:** To be announced  
 - **Submission deadline:** To be announced  
@@ -43,7 +43,7 @@ Detailed submission instructions will be announced shortly.
 
 ---
 
-## Presentation Format
+### Presentation Format
 
 Accepted papers will be presented in structured academic sessions, followed by discussion and feedback from peers and faculty participants.
 

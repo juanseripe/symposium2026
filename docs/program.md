@@ -3,7 +3,7 @@ layout: default
 title: Program
 ---
 
-# Program
+## Program
 
 ---
 
@@ -18,7 +18,7 @@ The symposium is expected to include:
 
 ---
 
-## Preliminary Structure (Indicative)
+### Preliminary Structure (Indicative)
 
 - **Morning:** Welcome and research sessions  
 - **Midday:** Lunch and informal exchanges  

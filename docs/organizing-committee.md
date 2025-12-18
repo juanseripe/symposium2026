@@ -3,7 +3,7 @@ layout: default
 title: Organizing Committee
 ---
 
-# Organizing Committee
+## Organizing Committee
 
 ---
 
@@ -11,13 +11,13 @@ The PhD Annual Symposium 2026 is organized collaboratively by doctoral students 
 
 ---
 
-## Host Institution
+### Host Institution
 
 **HEC Montréal**
 
 ---
 
-## Organizing Committee
+### Organizing Committee
 
 *To be announced*
 
@@ -30,7 +30,7 @@ The committee will include PhD student representatives and faculty members from:
 
 ---
 
-## Scientific Committee
+### Scientific Committee
 
 *Details forthcoming*
 
