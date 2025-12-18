@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+
 The **PhD Annual Symposium** is a flagship academic event that brings together doctoral students from the leading business schools in **Montréal**.  
 Held annually, the symposium provides a high-level forum for presenting ongoing research, exchanging ideas across disciplines, and fostering collaboration among emerging scholars.
 
@@ -45,9 +46,7 @@ Further details regarding the program structure, schedule, and submission proces
 
 ---
 
-### Hosting Institution
-
-#### HEC Montréal
+### Hosting Institution – HEC Montréal
 
 Founded in 1907, **HEC Montréal** is one of Canada’s leading business schools and an internationally recognized institution for research and graduate education.  
 Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to doctoral training, academic excellence, and collaboration across institutions.
