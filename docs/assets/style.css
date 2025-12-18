@@ -1,12 +1,13 @@
 /* Minimal stylesheet for the /docs Jekyll site */
 
 :root {
-  --maxw: 980px;
+  --maxw: 900px;
   --pad: 20px;
   --bg: #ffffff;
   --fg: #002855;
   --muted: #666666;
   --border: #e6e6e6;
+  --accent: #0072ce;
 }
 
 * { box-sizing: border-box; }
@@ -64,10 +65,12 @@ body {
 
 .main-nav a {
   text-decoration: none;
-  color: var(--fg);
+  color: var(--accent);
   padding: 6px 10px;
   border-radius: 10px;
   display: inline-block;
+  font-family: "Visby Slab", "Visby", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 600;
 }
 
 .main-nav a:hover { background: #f5f5f5; }
