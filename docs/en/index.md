@@ -53,7 +53,7 @@ Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to d
 
 For inquiries related to the symposium, please contact:
 
-📧 <a href="mailto:phd@aecshec.org">[phd@aecshec.org]</a>
+📧 <a href="mailto:phd@aecshec.org">phd@aecshec.org</a>
 
 ---
 
