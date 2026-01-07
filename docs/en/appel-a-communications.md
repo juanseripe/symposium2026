@@ -55,7 +55,7 @@ If you plan to invite a professor to lead the workshop, you are encouraged to co
 
 - **January 30, 2026** — Proposal submission deadline  
 - **February 5, 2026** — Acceptance notifications + registration opens  
-- **February 20, 2026** — Registration deadline  
+- **February 28, 2026** — Registration deadline  
 - **March 12–13, 2026** — Doctoral Symposium 2026  
 
 ---

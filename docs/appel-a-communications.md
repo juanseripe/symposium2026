@@ -55,7 +55,7 @@ Si vous envisagez de solliciter un·e professeur·e, nous vous encourageons à l
 
 - **30 janvier 2026** — Date limite : dépôt des propositions  
 - **5 février 2026** — Avis d’acceptation + ouverture des inscriptions  
-- **20 février 2026** — Date limite d’inscription  
+- **28 février 2026** — Date limite d’inscription  
 - **12–13 mars 2026** — Symposium doctoral 2026  
 
 ---
