@@ -7,8 +7,9 @@ title: Appel à communications
 
 ---
 
-Le Symposium doctoral 2026 propose **trois formats complémentaires** afin de permettre à chacune et à chacun de participer pleinement à l’événement.  
-➡️ **Soumettre une communication : [cliquez ici](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).**
+Le Symposium doctoral 2026 propose **trois formats complémentaires** afin de permettre à chacune et à chacun de participer pleinement à l’événement.
+
+➡️ **Soumettre une communication :** [cliquez ici](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).
 
 ---
 

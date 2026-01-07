@@ -8,7 +8,8 @@ title: Call for Papers
 ---
 
 The 2026 Doctoral Symposium offers **three complementary formats** to help everyone participate fully in the event.
-➡️ **Submit a proposal: [click here](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).**
+
+➡️ **Submit a proposal:** [click here](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).
 
 ---
 
