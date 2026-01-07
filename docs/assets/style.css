@@ -16,6 +16,21 @@
 html, body { margin: 0; padding: 0; }
 
 /* Optional local fonts (kept minimal + safe fallbacks) */
+/* Optional local fonts (safe fallbacks if missing) */
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-Thin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
 @font-face {
   font-family: "Visby";
   src: url("fonts/VisbyCF/VisbyCF-Regular.otf") format("opentype");
@@ -23,6 +38,99 @@ html, body { margin: 0; padding: 0; }
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-DemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-Heavy.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-ThinOblique.otf") format("opentype");
+  font-weight: 100;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-LightOblique.otf") format("opentype");
+  font-weight: 300;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-RegularOblique.otf") format("opentype");
+  font-weight: 400;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-MediumOblique.otf") format("opentype");
+  font-weight: 500;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-DemiBoldOblique.otf") format("opentype");
+  font-weight: 600;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-BoldOblique.otf") format("opentype");
+  font-weight: 700;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-ExtraBoldOblique.otf") format("opentype");
+  font-weight: 800;
+  font-style: oblique;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Visby";
+  src: url("fonts/VisbyCF/VisbyCF-HeavyOblique.otf") format("opentype");
+  font-weight: 900;
+  font-style: oblique;
+  font-display: swap;
+}
+
 @font-face {
   font-family: "Visby Slab";
   src: url("fonts/VisbySlab/VisbySlabCF-Bold.otf") format("opentype");
@@ -111,6 +219,10 @@ h1, h2, h3 {
 }
 
 p { margin: 0.6em 0; }
+
+strong, b {
+  font-weight: 800;
+}
 
 a { color: inherit; }
 
