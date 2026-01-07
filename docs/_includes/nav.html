@@ -1,8 +1,36 @@
 <nav class="main-nav">
+  {% if page.url == '/en/' or page.url contains '/en/' %}
+    {% assign is_en = true %}
+  {% else %}
+    {% assign is_en = false %}
+  {% endif %}
+
+  {% if is_en %}
+    {% assign prefix = site.baseurl | append: '/en' %}
+  {% else %}
+    {% assign prefix = site.baseurl %}
+  {% endif %}
+
+  {% if is_en %}
+    {% assign fr_path = page.url | remove_first: '/en' %}
+    {% assign en_path = page.url %}
+  {% else %}
+    {% assign fr_path = page.url %}
+    {% assign en_path = '/en' | append: page.url %}
+  {% endif %}
+
   <ul>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
-    <li><a href="{{ site.baseurl }}/call-for-papers.html">Call for Papers</a></li>
-    <li><a href="{{ site.baseurl }}/program.html">Program</a></li>
-    <li><a href="{{ site.baseurl }}/organizing-committee.html">Organizing Committee</a></li>
+    <li><a href="{{ prefix }}/">{% if is_en %}Home{% else %}Accueil{% endif %}</a></li>
+    <li><a href="{{ prefix }}/appel-a-communications.html">{% if is_en %}Call for Papers{% else %}Appel à communications{% endif %}</a></li>
+    <li><a href="{{ prefix }}/programme.html">{% if is_en %}Program{% else %}Programme{% endif %}</a></li>
+    <li><a href="{{ prefix }}/comite-organisation.html">{% if is_en %}Organizing Committee{% else %}Comité d'organisation{% endif %}</a></li>
+
+    <li class="nav-spacer"></li>
+
+    <li class="nav-lang">
+      <a class="{% unless is_en %}active{% endunless %}" href="{{ fr_path | relative_url }}">FR</a>
+      <span class="nav-sep">|</span>
+      <a class="{% if is_en %}active{% endif %}" href="{{ en_path | relative_url }}">EN</a>
+    </li>
   </ul>
 </nav>

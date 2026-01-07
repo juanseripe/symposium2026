@@ -3,11 +3,11 @@ layout: default
 title: Organizing Committee
 ---
 
-## Organizing Committee
+## {{ page.title }}
 
 ---
 
-The PhD Annual Symposium 2026 is organized collaboratively by doctoral students and faculty representatives from Montréal’s leading business schools.
+The PhD Annual Symposium 2026 is organized collaboratively by doctoral students and faculty representatives from Montreal’s leading business schools.
 
 ---
 
@@ -19,9 +19,7 @@ The PhD Annual Symposium 2026 is organized collaboratively by doctoral students 
 
 ### Organizing Committee
 
-*To be announced*
-
-The committee will include PhD student representatives and faculty members from:
+The committee includes PhD student representatives and faculty members from:
 
 - HEC Montréal  
 - McGill University – Desautels Faculty of Management  

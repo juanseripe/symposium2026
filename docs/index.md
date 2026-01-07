@@ -1,74 +1,58 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
 
-The **PhD Annual Symposium** is a flagship academic event that brings together doctoral students from the leading business schools in **Montréal**.  
-Held annually, the symposium provides a high-level forum for presenting ongoing research, exchanging ideas across disciplines, and fostering collaboration among emerging scholars.
+Chaque année, le Symposium doctoral revient pour rassembler les doctorant·es des quatre écoles de gestion de Montréal autour de notre passion commune : la recherche. Bien plus qu’un simple événement académique, c’est un moment de convivialité et de collégialité, où l’on peut échanger avec des pairs qui partagent des défis similaires, tout en évoluant dans des milieux et des traditions propres à leur école. Le symposium est aussi un espace privilégié pour tisser des liens durables, élargir notre réseau et rencontrer celles et ceux qui deviendront peut-être nos futur·es collaborateur·rices. Il nous offre l’occasion de nous exercer, en toute confiance, à une dimension essentielle de la vie académique : la communication scientifique. Enfin, il crée des ponts entre les quatre écoles de gestion et nous permet de tirer pleinement parti de la richesse de notre programme conjoint, en cultivant un réseau fort, diversifié et inspirant.
 
-In **2026**, the symposium will be proudly **hosted by HEC Montréal**, continuing the tradition of academic excellence, rigorous scholarship, and collegial exchange that defines Montréal’s doctoral research community.
-
----
-
-### Objectives
-
-The symposium aims to:
-
-- Provide PhD students with a professional setting to present and discuss their research  
-- Encourage interdisciplinary dialogue across business-related fields  
-- Strengthen collaboration between Montréal’s academic institutions  
-- Foster a supportive and inclusive doctoral research community  
+Ainsi, vous l’aurez compris, le Symposium doctoral sera de retour pour sa 5ᵉ édition les **12 et 13 mars 2026**, à **HEC Montréal, au pavillon Hélène-Desmarais**. Pour cette édition, nous avons imaginé trois formats complémentaires qui, nous l’espérons, offriront à chacune et à chacun l’occasion de participer pleinement à cet événement : **(1) présentations orales**, **(2) tables rondes** et **(3) ateliers**.
 
 ---
 
-### Participating Institutions
+### Dates importantes
 
-The symposium brings together doctoral researchers from Montréal’s leading business schools, including:
+- **14 janvier 2026** — Date limite : dépôt des propositions
+- **30 janvier 2026** — Avis d’acceptation + ouverture des inscriptions
+- **20 février 2026** — Date limite d’inscription
+- **12–13 mars 2026** — Symposium doctoral 2026
+
+---
+
+### Objectifs
+
+Le symposium vise à :
+
+- Offrir aux doctorants un cadre professionnel pour présenter et discuter de leurs travaux de recherche  
+- Encourager le dialogue interdisciplinaire en sciences de la gestion  
+- Renforcer la collaboration entre les établissements universitaires de Montréal  
+- Favoriser une communauté doctorale inclusive et bienveillante  
+
+---
+
+### Établissements participants
+
+Le symposium réunit des doctorants issus des principales écoles de gestion de Montréal, notamment :
 
 - **HEC Montréal**
 - **McGill University – Desautels Faculty of Management**
 - **Concordia University – John Molson School of Business**
 - **Université du Québec à Montréal (UQAM) – École des sciences de la gestion (ESG)**
-- *(Additional institutions to be confirmed)*
 
 ---
 
-### Format
+### Établissement hôte – HEC Montréal
 
-The symposium will feature:
-
-- Research paper presentations  
-- Structured discussion sessions  
-- Networking opportunities for PhD students  
-- Academic exchange in a professional and collegial environment  
-
-Further details regarding the program structure, schedule, and submission process will be announced soon.
-
----
-
-### Hosting Institution – HEC Montréal
-
-Founded in 1907, **HEC Montréal** is one of Canada’s leading business schools and an internationally recognized institution for research and graduate education.  
-Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to doctoral training, academic excellence, and collaboration across institutions.
-
----
-
-### Important Dates
-
-- **Call for papers:** To be announced  
-- **Submission deadline:** To be announced  
-- **Symposium date:** 2026 (exact date forthcoming)
+Fondée en 1907, **HEC Montréal** est l’une des principales écoles de gestion au Canada et une institution reconnue internationalement pour la recherche et la formation aux cycles supérieurs.  
+Accueillir le Symposium doctoral 2026 s’inscrit dans l’engagement de HEC Montréal envers la formation doctorale, l’excellence académique et la collaboration interuniversitaire.
 
 ---
 
 ### Contact
 
-For inquiries related to the symposium, please contact:
+Pour toute question liée au symposium, veuillez contacter :
 
-**Organizing Committee – PhD Annual Symposium 2026**  
-HEC Montréal  
-📧 *Contact details to be announced*
+📧 <a href="mailto:phd@aecshec.org">phd@aecshec.org</a>
 
 ---
 
-*More information will be added as the symposium program develops. Please check back regularly for updates.*
+*De plus amples informations seront ajoutées au fur et à mesure de l’élaboration du programme. Merci de revenir régulièrement pour les mises à jour.* 
