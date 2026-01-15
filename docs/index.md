@@ -11,10 +11,12 @@ Ainsi, vous l’aurez compris, le Symposium doctoral sera de retour pour sa 5ᵉ
 
 ### Dates importantes
 
-- **30 janvier 2026** — Date limite : dépôt des propositions
-- **5 février 2026** — Avis d’acceptation + ouverture des inscriptions
-- **28 février 2026** — Date limite d’inscription
-- **12–13 mars 2026** — Symposium doctoral 2026
+- **30 janvier 2026** — Date limite : dépôt des propositions  
+- **5 février 2026** — Avis d’acceptation + ouverture des inscriptions et du paiement  
+- **28 février 2026** — Date limite d’inscription  
+- **12–13 mars 2026** — Symposium doctoral 2026  
+
+**Frais d’inscription :** 20 $ (ouverture de la plateforme le **5 février 2026**).
 
 ---
 

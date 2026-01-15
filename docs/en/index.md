@@ -13,10 +13,12 @@ With this spirit in mind, the Doctoral Symposium will return for its 5th edition
 
 ### Important Dates
 
-- **January 30, 2026** — Proposal submission deadline
-- **February 5, 2026** — Acceptance notifications + registration opens
-- **February 28, 2026** — Registration deadline
-- **March 12–13, 2026** — Doctoral Symposium 2026
+- **January 30, 2026** — Proposal submission deadline  
+- **February 5, 2026** — Acceptance notifications + registration and payment open  
+- **February 28, 2026** — Registration deadline  
+- **March 12–13, 2026** — Doctoral Symposium 2026  
+
+**Registration fee:** $20 (registration opens **February 5, 2026**).
 
 ---
 
