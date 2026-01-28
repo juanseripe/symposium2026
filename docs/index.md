@@ -47,6 +47,8 @@ Le symposium réunit des doctorants issus des principales écoles de gestion de 
 Fondée en 1907, **HEC Montréal** est l’une des principales écoles de gestion au Canada et une institution reconnue internationalement pour la recherche et la formation aux cycles supérieurs.  
 Accueillir le Symposium doctoral 2026 s’inscrit dans l’engagement de HEC Montréal envers la formation doctorale, l’excellence académique et la collaboration interuniversitaire.
 
+Nous reconnaissons que HEC Montréal est situé sur un territoire autochtone qui a été colonisé. Historiquement, Tiohtiá:ke | Mooniyang | Montréal était un lieu de rassemblement pour différentes Premières Nations et aujourd'hui, une diversité de personnes autochtones et allochtones y vit. Voici une trousse d'outils pour les allié-es et complices des luttes autochtones : https://reseaumtlnetwork.com/publication/trousse-alliees/
+
 ---
 
 ### Contact
