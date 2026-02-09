@@ -9,8 +9,6 @@ title: Appel à communications
 
 Le Symposium doctoral 2026 propose **trois formats complémentaires** afin de permettre à chacune et à chacun de participer pleinement à l’événement.
 
-➡️ **Soumettre une communication :** [cliquez ici](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).
-
 ---
 
 ### 1) Présentation orale (article complet)
@@ -68,12 +66,6 @@ Si vous envisagez de solliciter un·e professeur·e, nous vous encourageons à l
 - Chaque participante ou participant peut soumettre **une seule communication**, soit sous la forme d’une **présentation orale** ou d’une **table ronde**. Il est également possible de soumettre, en plus, **une proposition d’atelier**.  
 - Les documents soumis ne seront **ni diffusés ni publiés**. Ils seront uniquement transmis à la personne chargée de vous fournir une rétroaction dans le cadre du format « présentation orale ». Vous pouvez donc soumettre, sans hésitation, un article que vous prévoyez présenter à une conférence.  
 - Les communications peuvent être soumises **en français ou en anglais**.  
-
----
-
-### Soumettre une communication
-
-**[Cliquez ici pour soumettre une communication](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk)**
 
 ---
 

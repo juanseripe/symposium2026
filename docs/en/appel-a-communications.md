@@ -9,8 +9,6 @@ title: Call for Papers
 
 The 2026 Doctoral Symposium offers **three complementary formats** to help everyone participate fully in the event.
 
-➡️ **Submit a proposal:** [click here](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk).
-
 ---
 
 ### 1) Oral Presentation (full paper)
@@ -68,12 +66,6 @@ If you plan to invite a professor to lead the workshop, you are encouraged to co
 - Each participant may submit **one communication**, either as an **oral presentation** or a **roundtable**. In addition, participants may also submit **a workshop proposal**.  
 - Submissions will **not be published or disseminated**. They will only be shared with the person assigned to provide feedback for the **oral presentation** format. In other words, you may confidently submit a paper you plan to present at a conference—the Symposium is an excellent opportunity to prepare for that presentation.  
 - Submissions may be made **in French or in English**.  
-
----
-
-### Submit a Proposal
-
-**[Click here to submit a proposal](https://hecmontreal.eu.qualtrics.com/jfe/form/SV_bfTsYRAeyRIoFxk)**
 
 ---
 

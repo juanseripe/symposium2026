@@ -21,7 +21,8 @@ title: Program
       <td><strong>11:30–13:30</strong></td>
       <td>
         <strong>Arrival and distribution of name tags</strong><br>
-        <em>(B.307 – Multipurpose room)</em>
+        <em>(B.307 – Multipurpose room)</em><br>
+        Refreshments and snacks will be served
       </td>
     </tr>
 
@@ -76,7 +77,7 @@ title: Program
             <td>
               {% assign session = site.sessions | where: "slug", "presentation-3" | first %}
               <strong>
-               <a href="{{ session.url }}">{{ session.title }}</a>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
               </strong><br>
               <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
               {{ session.theme }}
@@ -99,7 +100,7 @@ title: Program
     <tr>
       <td><strong>17:30–20:30</strong></td>
       <td>
-        <strong>Cocktail</strong> + speech from Denis<br>
+        <strong>Cocktail</strong> + speech from the HEC PhD Program Director<br>
         <em>(A.878 – Guy-Fréchette)</em>
       </td>
     </tr>
@@ -119,7 +120,7 @@ title: Program
   </thead>
   <tbody>
     <tr>
-      <td><strong>08:30–09:00</strong></td>
+      <td><strong>08:00–09:00</strong></td>
       <td>
         <strong>Welcome Breakfast</strong><br>
         <em>(D.726 – Creativity room)</em>
@@ -165,7 +166,7 @@ title: Program
     </tr>
 
     <tr>
-      <td><strong>12:15–13:15</strong></td>
+      <td><strong>12:15–13:30</strong></td>
       <td>
         <strong>Lunch</strong><br>
         <em>(D.726 – Creativity room)</em>
