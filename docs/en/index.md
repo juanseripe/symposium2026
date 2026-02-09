@@ -49,7 +49,7 @@ The symposium brings together doctoral researchers from Montreal’s leading bus
 Founded in 1907, **HEC Montréal** is one of Canada’s leading business schools and an internationally recognized institution for research and graduate education.  
 Hosting the 2026 PhD Annual Symposium reflects HEC Montréal’s commitment to doctoral training, academic excellence, and collaboration across institutions.
 
-We acknowledge that HEC Montréal is located on Indigenous territory that has been colonised. Historically, Tiohtiá:ke \| Mooniyang \| Montreal was a gathering place for various First Nations, and today, a diverse population of Indigenous and non-Indigenous people live there. Here is a toolkit for allies and supporters of Indigenous struggles: [https://reseaumtlnetwork.com/en/publication/ally-toolkit/](https://reseaumtlnetwork.com/en/publication/ally-toolkit/)
+We acknowledge that HEC Montréal is located on Indigenous territory that has been colonised. Historically, Tiohtiá:ke \| Mooniyang \| Montreal was a gathering place for various First Nations, and today, a diverse population of Indigenous and non-Indigenous people live there. Here is a toolkit for allies and supporters of Indigenous struggles: <https://reseaumtlnetwork.com/en/publication/ally-toolkit/>
 
 ---
 

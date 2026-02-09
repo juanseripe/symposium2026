@@ -53,20 +53,20 @@ The Hélène-Desmarais Building has several entrances:
 
 Below is an overview of the rooms by floor.
 
-- **3rd floor:** B.307 — Multipurpose room
-  ![3rd floor map]({{ site.baseurl }}/assets/img/accessibilite/etage-3.png)
+- **3rd floor:** B.307 — Multipurpose room  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-3.png" alt="3rd floor map">
 
-- **4th floor:** A.451 — C.406 — C.412 — C.403
-  ![4th floor map]({{ site.baseurl }}/assets/img/accessibilite/etage-4.png)
+- **4th floor:** A.451 — C.406 — C.412 — C.403  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-4.png" alt="4th floor map">
 
-- **5th floor:** A.551 — A.505 — A.515 — C.521 — C.539
-  ![5th floor map]({{ site.baseurl }}/assets/img/accessibilite/etage-5.png)
+- **5th floor:** A.551 — A.505 — A.515 — C.521 — C.539  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-5.png" alt="5th floor map">
 
-- **7th floor:** D.726 — Creativity room
-  ![7th floor map]({{ site.baseurl }}/assets/img/accessibilite/etage-7.png)
+- **7th floor:** D.726 — Creativity room  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-7.png" alt="7th floor map">
 
-- **8th floor:** A.878 — Guy-Fréchette room
-  ![8th floor map]({{ site.baseurl }}/assets/img/accessibilite/etage-8.png)
+- **8th floor:** A.878 — Guy-Fréchette room  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-8.png" alt="8th floor map">
 
 For more information about accessibility at the Hélène-Desmarais Building, see HEC Montréal’s page:
 <https://www.hec.ca/campus/helene-desmarais/>

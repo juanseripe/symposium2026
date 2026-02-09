@@ -19,5 +19,36 @@
 
     {% include footer.html %}
 
+    <div class="img-modal" id="imgModal" aria-hidden="true">
+      <img id="imgModalContent" alt="">
+    </div>
+
+    <script>
+      const modal = document.getElementById("imgModal");
+      const modalImg = document.getElementById("imgModalContent");
+
+      document.addEventListener("click", (e) => {
+        const img = e.target.closest("img.zoom-img");
+        if (img) {
+          modalImg.src = img.src;
+          modalImg.alt = img.alt || "Zoomed image";
+          modal.classList.add("open");
+          modal.setAttribute("aria-hidden", "false");
+        } else if (e.target === modal) {
+          modal.classList.remove("open");
+          modal.setAttribute("aria-hidden", "true");
+          modalImg.src = "";
+        }
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && modal.classList.contains("open")) {
+          modal.classList.remove("open");
+          modal.setAttribute("aria-hidden", "true");
+          modalImg.src = "";
+        }
+      });
+    </script>
+
   </body>
 </html>

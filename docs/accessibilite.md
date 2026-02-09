@@ -45,7 +45,7 @@ Le pavillon Hélène-Desmarais possède plusieurs entrées :
 - **Métro :** Square-Victoria–OACI — suivre le panneau HEC Montréal et traverser le couloir jusqu’à la sortie. L’entrée Famille Waechter se situe juste en face, en traversant le passage piéton.
 - **Autobus :** ligne 150.
 - **Vélo :** supports à vélos intérieurs et extérieurs, ainsi que des stations BIXI à proximité (voir l’application BIXI).
-- **Voiture :** stationnement sur la rue de La Gauchetière Ouest; bornes pour véhicules électriques.
+- **Voiture :** entrée du stationnement sur la rue de La Gauchetière Ouest; bornes pour véhicules électriques.
 
 ---
 
@@ -53,21 +53,20 @@ Le pavillon Hélène-Desmarais possède plusieurs entrées :
 
 Voici un aperçu des salles où la conférence se déroulera, par étage.
 
-- **3e étage :** B.307 — Salle multifonctionnelle
-  ![3e étage carte]({{ site.baseurl }}/assets/img/accessibilite/etage-3.png)
+- **3e étage :** B.307 — Salle multifonctionnelle  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-3.png" alt="Carte du 3e étage">
 
-- **4e étage :** A.451 — C.406 — C.412 — C.403
-  ![4e étage carte]({{ site.baseurl }}/assets/img/accessibilite/etage-4.png)
+- **4e étage :** A.451 — C.406 — C.412 — C.403  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-4.png" alt="Carte du 4e étage">
 
-- **5e étage :** A.551 — A.505 — A.515 — C.521 — C.539
-  ![5e étage carte]({{ site.baseurl }}/assets/img/accessibilite/etage-5.png)
+- **5e étage :** A.551 — A.505 — A.515 — C.521 — C.539  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-5.png" alt="Carte du 5e étage">
 
-- **7e étage :** D.726 — Salle de créativité
-  ![7e étage carte]({{ site.baseurl }}/assets/img/accessibilite/etage-7.png)
+- **7e étage :** D.726 — Salle de créativité  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-7.png" alt="Carte du 7e étage">
 
-- **8e étage :** A.878 — Salle Guy-Fréchette
-  ![8e étage carte]({{ site.baseurl }}/assets/img/accessibilite/etage-8.png)
-
+- **8e étage :** A.878 — Salle Guy-Fréchette  
+  <img class="zoom-img" src="{{ site.baseurl }}/assets/img/accessibilite/etage-8.png" alt="Carte du 8e étage">
 
 Pour plus d’information sur l’accessibilité du pavillon Hélène-Desmarais, vous pouvez consulter le site de HEC Montréal à l’adresse suivante :
 <https://www.hec.ca/campus/helene-desmarais/>

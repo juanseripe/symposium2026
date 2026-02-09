@@ -234,6 +234,28 @@ hr {
   margin: 22px 0;
 }
 
+/* Zoom Images */
+.zoom-img { cursor: zoom-in; }
+
+.img-modal {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.85);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 9999;
+}
+
+.img-modal.open { display: flex; }
+
+.img-modal img {
+  max-width: 95vw;
+  max-height: 95vh;
+  width: auto;
+  height: auto;
+}
+
 /* Footer */
 .site-footer {
   background: var(--footer-bg);
