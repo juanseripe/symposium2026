@@ -7,16 +7,6 @@ title: Program
 
 ---
 
-The Symposium features three complementary formats:
-
-- **Oral presentations** (full papers)  
-- **Roundtables** (extended abstracts)  
-- **Workshops** (interactive sessions)
-
----
-
-### Final Program
-
 <h3>Thursday, March 12</h3>
 
 <table>
@@ -85,8 +75,6 @@ The Symposium features three complementary formats:
     </tr>
   </tbody>
 </table>
-
-<br>
 
 <h3>Friday, March 13</h3>
 
