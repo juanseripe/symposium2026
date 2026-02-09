@@ -285,7 +285,7 @@ table.parallel td {
   padding: 8px;
   vertical-align: top;
   border-left: 1px solid #e0e0e0;
-  width: 33%;
+  width: 1%;
 }
 
 table.parallel td:first-child {
@@ -293,7 +293,7 @@ table.parallel td:first-child {
 }
 
 table.parallel tr {
-  border-bottom: none;
+  border-bottom: none !important;
 }
 
 /* Footer */
