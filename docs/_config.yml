@@ -2,3 +2,8 @@ title: PhD Annual Symposium 2026
 description: PhD Annual Symposium hosted by HEC Montréal
 baseurl: ""
 url: "https://www.phdsymposium2026.ca"
+
+collections:
+  sessions:
+    output: true
+    permalink: /sessions/:name/

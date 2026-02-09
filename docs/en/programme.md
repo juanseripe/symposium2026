@@ -74,9 +74,12 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              <strong>Presentation Session #3</strong><br>
-              <em>(C.403)</em><br>
-              AI, Algorithmic Decision-Making and Fairness
+              {% assign session = site.sessions | where: "id", "presentation-3" | first %}
+              <strong>
+               <a href="{{ session.url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
               <strong>Presentation Session #4</strong><br>
