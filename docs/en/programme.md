@@ -100,7 +100,7 @@ title: Program
     <tr>
       <td><strong>17:30–20:30</strong></td>
       <td>
-        <strong>Cocktail</strong> + speech from the HEC PhD Program Director<br>
+        <strong>Cocktail reception</strong> and speech by the HEC PhD Program Director<br>
         <em>(A.878 – Guy-Fréchette)</em>
       </td>
     </tr>
