@@ -36,8 +36,6 @@ title: Program
     <tr>
       <td><strong>14:00–15:30</strong></td>
       <td>
-        <strong>Parallel sessions</strong><br><br>
-
         <table class="parallel">
           <tr>
             <td>
@@ -52,9 +50,13 @@ title: Program
             </td>
             <td>
               <strong>Workshop #1</strong><br>
-              (C.406) Vicky Mercier<br><br>
+              (C.406)<br>
+              The Alphabet of Chaos: An Arts-Based Exercise to Experience Creativity Under Constraints
+            </td>
+            <td>
               <strong>Workshop #2</strong><br>
-              (C.412) Anana Bhardwaj et al.
+              (C.412)<br>
+              Using Generative AI for Qualitative Research in the Montreal Joint PhD Program
             </td>
           </tr>
         </table>
@@ -69,8 +71,6 @@ title: Program
     <tr>
       <td><strong>16:00–17:30</strong></td>
       <td>
-        <strong>Parallel sessions</strong><br><br>
-
         <table class="parallel">
           <tr>
             <td>
@@ -85,7 +85,8 @@ title: Program
             </td>
             <td>
               <strong>Workshop #3</strong><br>
-              (C.406) Paul and Karl’s
+              (C.406)<br>
+              Paul and Karl’s
             </td>
           </tr>
         </table>
@@ -126,7 +127,8 @@ title: Program
       <td><strong>09:00–10:30</strong></td>
       <td>
         <strong>Workshop #4</strong><br>
-        (A.505) Justine-Anne Rowell
+        (A.505)<br>
+        Managérialisme, culture de performance et santé psychologique : Comment s'inspirer du slow scholarship pour survivre et s'épanouir aux études supérieures?
       </td>
     </tr>
 
@@ -138,19 +140,16 @@ title: Program
     <tr>
       <td><strong>10:45–12:15</strong></td>
       <td>
-        <strong>Parallel sessions</strong><br><br>
-
         <table class="parallel">
           <tr>
             <td>
               <strong>Roundtable session</strong><br>
-              (A.551)<br>
-              <em>10:45–12:15</em>
+              (A.551)
             </td>
             <td>
               <strong>Workshop #5</strong><br>
-              (C.412) Tobie Rodrigue<br>
-              <em>10:45–12:15</em>
+              (C.412)<br>
+              Ebbs and flows of the doctoral journey
             </td>
             <td>
               <strong>Presentation Session #5</strong><br>
@@ -171,24 +170,17 @@ title: Program
     </tr>
 
     <tr>
-      <td><strong>13:30–14:00</strong></td>
-      <td><em>(No specific events listed for this slot on Friday)</em></td>
-    </tr>
-
-    <tr>
-      <td><strong>14:00–15:30</strong></td>
+      <td><strong>13:30–15:00</strong></td>
       <td>
-        <strong>Parallel sessions</strong><br><br>
-
         <table class="parallel">
           <tr>
             <td>
-              <strong>Presentation Session</strong><br>
+              <strong>Presentation Session #6</strong><br>
               (C.521)<br>
               Health, Care and Digitalization
             </td>
             <td>
-              <strong>Presentation Session</strong><br>
+              <strong>Presentation Session #7</strong><br>
               (C.539)<br>
               Institutions, Governance and Public Action
             </td>
@@ -198,12 +190,12 @@ title: Program
     </tr>
 
     <tr>
-      <td><strong>15:30–16:00</strong></td>
+      <td><strong>15:00–15:30</strong></td>
       <td><strong>Refreshment</strong> (D.726)</td>
     </tr>
 
     <tr>
-      <td><strong>16:00–17:30</strong></td>
+      <td><strong>15:30–17:00</strong></td>
       <td>
         <strong>Workshops</strong><br><br>
 
@@ -211,15 +203,18 @@ title: Program
           <tr>
             <td>
               <strong>Workshop #6</strong><br>
-              (C.505) Margaux Maurel
+              (C.505)<br>
+              Individual and collective resistance strategies of doctoral students to power dynamics at the university, in particular in supervisory relationships
             </td>
             <td>
               <strong>Workshop #7</strong><br>
-              (C.515) Aymeric Mailler
+              (C.515)<br>
+              Understanding and practicing bibliographic snowballing from open data: methodological principles, tools and limitations
             </td>
             <td>
               <strong>Workshop #8</strong><br>
-              (C.551) Marie Claire Hamel
+              (C.551)<br>
+              Boundless Era: A Collaborative Open Innovation Game
             </td>
           </tr>
         </table>
@@ -230,8 +225,7 @@ title: Program
       <td><strong>17:00–17:30</strong></td>
       <td>
         <strong>Closing speeches</strong><br>
-        (A.878)<br>
-        <em>Note: Slight overlap with previous session</em>
+        (A.878)
       </td>
     </tr>
 
