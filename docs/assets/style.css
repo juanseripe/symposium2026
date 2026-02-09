@@ -292,6 +292,10 @@ table.parallel td:first-child {
   border-left: none;
 }
 
+table.parallel tr {
+  border-bottom: none;
+}
+
 /* Footer */
 .site-footer {
   background: var(--footer-bg);
