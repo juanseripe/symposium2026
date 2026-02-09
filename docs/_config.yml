@@ -6,4 +6,6 @@ url: "https://www.phdsymposium2026.ca"
 collections:
   sessions:
     output: true
-    permalink: /en/sessions/:name.html
+    permalink: /sessions/:name.html
+
+future: true
