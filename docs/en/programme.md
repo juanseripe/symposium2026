@@ -182,7 +182,3 @@ In addition, the program will include opening and closing remarks, as well as op
 
   </tbody>
 </table>
-
----
-
-*The finalized schedule, session assignments, and presentation times will be announced after the review process is completed.*
