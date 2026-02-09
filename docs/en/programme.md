@@ -74,7 +74,7 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              {% assign session = site.sessions | where: "id", "presentation-3" | first %}
+              {% assign session = site.sessions | where: "slug", "presentation-3" | first %}
               <strong>
                <a href="{{ session.url }}">{{ session.title }}</a>
               </strong><br>

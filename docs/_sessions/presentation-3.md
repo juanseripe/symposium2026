@@ -1,5 +1,4 @@
 ---
-id: presentation-3
 layout: session
 title: "Presentation Session #3"
 theme: "AI, Algorithmic Decision-Making & Fairness"
