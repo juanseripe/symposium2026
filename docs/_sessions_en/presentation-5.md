@@ -7,7 +7,7 @@ lang: "en"
 
 day: "Friday"
 date: 2026-03-13
-time_start: "10:45"
+time_start: "11:15"
 time_end: "12:15"
 
 room_code: "C.521"

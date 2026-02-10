@@ -149,7 +149,7 @@ title: Programme
     </tr>
 
     <tr>
-      <td><strong>09 h 00 – 10 h 30</strong></td>
+      <td><strong>09 h 00 – 11 h 00</strong></td>
       <td>
         {% assign workshop = site.workshops | where: "slug", "atelier-4" | first %}
         <strong>
@@ -161,12 +161,12 @@ title: Programme
     </tr>
 
     <tr>
-      <td><strong>10 h 30 – 10 h 45</strong></td>
+      <td><strong>11 h 00 – 11 h 15</strong></td>
       <td><strong>Pause</strong> (15 minutes)</td>
     </tr>
 
     <tr>
-      <td><strong>10 h 45 – 12 h 15</strong></td>
+      <td><strong>11 h 15 – 12 h 15</strong></td>
       <td>
         <table class="parallel">
           <tr>
