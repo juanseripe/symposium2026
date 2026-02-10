@@ -11,6 +11,18 @@ With this spirit in mind, the Doctoral Symposium will return for its 5th edition
 
 ---
 
+### Register now!
+
+<br><br>
+<a href="https://luma.com/event/evt-XScxHZGgyKqAmUy"
+class="luma-checkout--button"   
+data-luma-action="checkout"   
+data-luma-event-id="evt-XScxHZGgyKqAmUy">Register here</a> 
+ 
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+
+---
+
 ### Important Dates
 
 - **January 30, 2026** — Proposal submission deadline  

@@ -11,6 +11,7 @@ Ainsi, vous l’aurez compris, le Symposium doctoral sera de retour pour sa 5ᵉ
 
 ### Inscrivez-vous ici !
 
+<br><br>
 <a href="https://luma.com/event/evt-XScxHZGgyKqAmUy"
 class="luma-checkout--button"   
 data-luma-action="checkout"   
