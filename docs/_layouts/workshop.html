@@ -7,11 +7,10 @@ layout: default
 {% if lang == "fr" %}
   {% assign L_when = "Quand" %}
   {% assign L_room = "Salle" %}
-  {% assign L_facilitator = "Animatrice" %}
+  {% assign L_facilitator = "Animateur•trice•s" %}
   {% assign L_language = "Langue de l’atelier" %}
   {% assign L_capacity = "Capacité maximale" %}
   {% assign L_description = "Description" %}
-  {% assign L_people = "personnes" %}
   {% assign months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
   {% assign m_index = page.date | date: "%-m" | minus: 1 %}
   {% assign day_num = page.date | date: "%-d" %}
@@ -20,11 +19,10 @@ layout: default
 {% else %}
   {% assign L_when = "When" %}
   {% assign L_room = "Room" %}
-  {% assign L_facilitator = "Workshop facilitator" %}
+  {% assign L_facilitator = "Workshop facilitator(s)" %}
   {% assign L_language = "Language of the workshop" %}
   {% assign L_capacity = "Maximum capacity" %}
   {% assign L_description = "Description" %}
-  {% assign L_people = "people" %}
   {% assign date_str = page.date | date: "%B %-d, %Y" %}
 {% endif %}
 
@@ -52,7 +50,7 @@ layout: default
   {% endif %}
 
   {% if page.capacity %}
-    <strong>{{ L_capacity }}:</strong> {{ page.capacity }} {{ L_people }}<br>
+    <strong>{{ L_capacity }}:</strong> {{ page.capacity }}<br>
   {% endif %}
 </p>
 

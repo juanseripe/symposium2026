@@ -12,7 +12,7 @@ title: Programme
 <table class="program">
   <thead>
     <tr>
-      <th style="width: 15%;">Heure</th>
+      <th style="width: 20%;">Heure</th>
       <th>Activité</th>
     </tr>
   </thead>
@@ -135,7 +135,7 @@ title: Programme
 <table class="program">
   <thead>
     <tr>
-      <th style="width: 15%;">Heure</th>
+      <th style="width: 20%;">Heure</th>
       <th>Activité</th>
     </tr>
   </thead>
