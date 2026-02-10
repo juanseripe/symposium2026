@@ -21,7 +21,7 @@ presenters:
 
   - name: "Joy Zhuoyue Pang"
     paper_title: "Adapting to Open Access Innovation: A Longitudinal Analysis of Policy Mandates and Gendered Responses"
-    paper_summary: "None for now, coming soon"
+    paper_summary: "Coming soon."
 
   - name: "Lidiia Shchichko"
     paper_title: "L20for2SP: Learning-to-Optimize for Two-stage Stochastic Programs with Continuous Recourse"

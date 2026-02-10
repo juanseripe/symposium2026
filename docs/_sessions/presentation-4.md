@@ -7,7 +7,7 @@ lang: "fr"
 
 day: "jeudi"
 date: 2026-03-12
-time_start: "16 h"
+time_start: "16 h 00"
 time_end: "17 h 30"
 
 room_code: "A.451"
@@ -21,7 +21,7 @@ presenters:
 
   - name: "Joy Zhuoyue Pang"
     paper_title: "Adapting to Open Access Innovation: A Longitudinal Analysis of Policy Mandates and Gendered Responses"
-    paper_summary: "None for now, coming soon"
+    paper_summary: "À venir."
 
   - name: "Lidiia Shchichko"
     paper_title: "L20for2SP: Learning-to-Optimize for Two-stage Stochastic Programs with Continuous Recourse"

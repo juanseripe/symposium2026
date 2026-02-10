@@ -8,7 +8,7 @@ lang: "fr"
 day: "vendredi"
 date: 2026-03-13
 time_start: "13 h 30"
-time_end: "15 h"
+time_end: "15 h 00"
 
 room_code: "C.539"
 room_name: "Saïd Business School"
@@ -26,7 +26,7 @@ presenters:
 
   - name: "Hussam Al Maleh"
     paper_title: "The role of rapport between coaches and founders: Introducing management controls to startup founders in incubator programs"
-    paper_summary: "None for now, will come soon"
+    paper_summary: "À venir."
 
   - name: "Dat Thanh Tran"
     paper_title: "Taking Agency, Values, and Interest Seriously: The Role of Top Managers and Regulators in Decoupling"

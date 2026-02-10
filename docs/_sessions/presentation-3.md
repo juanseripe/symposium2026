@@ -7,7 +7,7 @@ lang: "fr"
 
 day: "jeudi"
 date: 2026-03-12
-time_start: "16 h"
+time_start: "16 h 00"
 time_end: "17 h 30"
 
 room_code: "C.403"
@@ -31,7 +31,7 @@ presenters:
 
   - name: "Paul Yuke Wang"
     paper_title: "Impact of Generative AI on Skill Portfolio Transformation"
-    paper_summary: "Coming soon."
+    paper_summary: "À venir."
 
   - name: "Chaima Merbouh"
     paper_title: "Reinscribing Judgment: A Critical Realist Theory of Over-Reliance on AI in High-Stake Domains"

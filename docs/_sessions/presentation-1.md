@@ -7,7 +7,7 @@ lang: "fr"
 
 day: "jeudi"
 date: 2026-03-12
-time_start: "14 h"
+time_start: "14 h 00"
 time_end: "15 h 30"
 
 room_code: "C.403"

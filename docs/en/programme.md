@@ -12,7 +12,7 @@ title: Program
 <table class="program">
   <thead>
     <tr>
-      <th style="width: 15%;">Time</th>
+      <th style="width: 20%;">Time</th>
       <th>Activity</th>
     </tr>
   </thead>
@@ -30,7 +30,7 @@ title: Program
       <td><strong>13:30–14:00</strong></td>
       <td>
         <strong>Opening speech</strong><br>
-        <em>(B.307)</em>
+        <em>(B.307 – Multipurpose room)</em>
       </td>
     </tr>
 
@@ -64,9 +64,12 @@ title: Program
               {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
             <td>
-              <strong>Workshop #2</strong><br>
-              <em>(C.412)</em><br>
-              Using Generative AI for Qualitative Research in the Montreal Joint PhD Program
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-2" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
           </tr>
         </table>
@@ -75,7 +78,10 @@ title: Program
 
     <tr>
       <td><strong>15:30–16:00</strong></td>
-      <td><strong>Refreshment</strong> <em>(B.307)</em></td>
+      <td>
+        <strong>Refreshment</strong> <br>
+        <em>(B.307 – Multipurpose room)</em>
+      </td>
     </tr>
 
     <tr>
@@ -100,9 +106,12 @@ title: Program
               {{ session.theme }}
             </td>
             <td>
-              <strong>Workshop #3</strong><br>
-              <em>(C.406)</em><br>
-              Paul and Karl’s
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-3" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
           </tr>
         </table>
@@ -126,7 +135,7 @@ title: Program
 <table class="program">
   <thead>
     <tr>
-      <th style="width: 15%;">Time</th>
+      <th style="width: 20%;">Time</th>
       <th>Activity</th>
     </tr>
   </thead>
@@ -142,9 +151,12 @@ title: Program
     <tr>
       <td><strong>09:00–10:30</strong></td>
       <td>
-        <strong>Workshop #4</strong><br>
-        <em>(A.505)</em><br>
-        Managérialisme, culture de performance et santé psychologique : Comment s'inspirer du slow scholarship pour survivre et s'épanouir aux études supérieures?
+        {% assign workshop = site.workshops_en | where: "slug", "atelier-4" | first %}
+        <strong>
+        <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+        </strong><br>
+        <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+        {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
       </td>
     </tr>
 
@@ -163,9 +175,12 @@ title: Program
               <em>(A.551)</em>
             </td>
             <td>
-              <strong>Workshop #5</strong><br>
-              <em>(C.412)</em><br>
-              Ebbs and flows of the doctoral journey
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-5" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
             <td>
               {% assign session = site.sessions_en | where: "slug", "presentation-5" | first %}
@@ -216,7 +231,10 @@ title: Program
 
     <tr>
       <td><strong>15:00–15:30</strong></td>
-      <td><strong>Refreshment</strong> <em>(D.726)</em></td>
+      <td>
+        <strong>Refreshment</strong><br>
+        <em>(D.726 – Creativity room)</em>
+      </td>
     </tr>
 
     <tr>
@@ -225,19 +243,28 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              <strong>Workshop #6</strong><br>
-              <em>(C.505)</em><br>
-              Individual and collective resistance strategies of doctoral students to power dynamics at the university, in particular in supervisory relationships
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-6" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
             <td>
-              <strong>Workshop #7</strong><br>
-              <em>(C.515)</em><br>
-              Understanding and practicing bibliographic snowballing from open data: methodological principles, tools and limitations
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-7" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
             <td>
-              <strong>Workshop #8</strong><br>
-              <em>(C.551)</em><br>
-              Boundless Era: A Collaborative Open Innovation Game
+              <{% assign workshop = site.workshops_en | where: "slug", "atelier-8" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
           </tr>
         </table>
@@ -248,7 +275,7 @@ title: Program
       <td><strong>17:00–17:30</strong></td>
       <td>
         <strong>Closing speeches</strong><br>
-        <em>(A.878)</em>
+        <em>(A.878 – Guy-Fréchette)</em>
       </td>
     </tr>
 

@@ -12,7 +12,11 @@ layout: default
   {% assign L_capacity = "Capacité maximale" %}
   {% assign L_description = "Description" %}
   {% assign L_people = "personnes" %}
-  {% assign date_fmt = "%-d %B %Y" %}
+  {% assign months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
+  {% assign m_index = page.date | date: "%-m" | minus: 1 %}
+  {% assign day_num = page.date | date: "%-d" %}
+  {% assign year_num = page.date | date: "%Y" %}
+  {% assign date_str = day_num | append: " " | append: months[m_index] | append: " " | append: year_num %}
 {% else %}
   {% assign L_when = "When" %}
   {% assign L_room = "Room" %}
@@ -21,14 +25,14 @@ layout: default
   {% assign L_capacity = "Maximum capacity" %}
   {% assign L_description = "Description" %}
   {% assign L_people = "people" %}
-  {% assign date_fmt = "%B %-d, %Y" %}
+  {% assign date_str = page.date | date: "%B %-d, %Y" %}
 {% endif %}
 
 <h1>{{ page.title }}: {{page.theme}}</h1>
 
 <p>
   <strong>{{ L_when }}:</strong>
-  {{ page.day }}{% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
+  {{ page.day }}{% if page.date %}, {{ date_str }}{% endif %}
   {% if page.time_start and page.time_end %} — {{ page.time_start }}–{{ page.time_end }}{% endif %}<br>
 
   {% if page.room_code or page.room_name %}

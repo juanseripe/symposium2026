@@ -8,7 +8,7 @@ lang: "fr"
 day: "vendredi"
 date: 2026-03-13
 time_start: "13 h 30"
-time_end: "15 h"
+time_end: "15 h 00"
 
 room_code: "C.521"
 room_name: "Helsinki"

@@ -1,20 +1,20 @@
 ---
 layout: workshop
-title: "Workshop #1"
+title: "Atelier #1"
 theme: "The Alphabet of Chaos: An Arts-Based Exercise to Experience Creativity Under Constraints"
 type: "workshop"
-lang: "en"
+lang: "fr"
 
-day: "Thursday"
+day: "jeudi"
 date: 2026-03-12
-time_start: "14:00"
-time_end: "15:30"
+time_start: "14 h 00"
+time_end: "15 h 30"
 
 room_code: "C.406"
 room_name: "Josée-Fiset"
 
 facilitator: "Vicky Mercier"
-workshop_language: "French"
+workshop_language: "français"
 capacity: 30
 
 description: >

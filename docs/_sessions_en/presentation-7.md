@@ -26,7 +26,7 @@ presenters:
 
   - name: "Hussam Al Maleh"
     paper_title: "The role of rapport between coaches and founders: Introducing management controls to startup founders in incubator programs"
-    paper_summary: "None for now, will come soon"
+    paper_summary: "Coming soon."
 
   - name: "Dat Thanh Tran"
     paper_title: "Taking Agency, Values, and Interest Seriously: The Role of Top Managers and Regulators in Decoupling"
