@@ -40,14 +40,20 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              <strong>Presentation Session #1</strong><br>
-              <em>(C.403)</em><br>
-              Sustainability, ESG and Institutional Transformations
+              {% assign session = site.sessions_en | where: "slug", "presentation-1" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
-              <strong>Presentation Session #2</strong><br>
-              <em>(A.451)</em><br>
-              Markets, Consumers and Meaning
+              {% assign session = site.sessions_en | where: "slug", "presentation-2" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
               {% assign workshop = site.workshops_en | where: "slug", "atelier-1" | first %}
@@ -86,9 +92,12 @@ title: Program
               {{ session.theme }}
             </td>
             <td>
-              <strong>Presentation Session #4</strong><br>
-              <em>(A.451)</em><br>
-              Innovation, Learning and Spatial / Policy Dynamics
+              {% assign session = site.sessions_en | where: "slug", "presentation-4" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
               <strong>Workshop #3</strong><br>
@@ -159,9 +168,12 @@ title: Program
               Ebbs and flows of the doctoral journey
             </td>
             <td>
-              <strong>Presentation Session #5</strong><br>
-              <em>(C.521)</em><br>
-              Organizations, Work and Identity
+              {% assign session = site.sessions_en | where: "slug", "presentation-5" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
           </tr>
         </table>
@@ -182,14 +194,20 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              <strong>Presentation Session #6</strong><br>
-              <em>(C.521)</em><br>
-              Health, Care and Digitalization
+              {% assign session = site.sessions_en | where: "slug", "presentation-6" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
-              <strong>Presentation Session #7</strong><br>
-              <em>(C.539)</em><br>
-              Institutions, Governance and Public Action
+              {% assign session = site.sessions_en | where: "slug", "presentation-7" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
           </tr>
         </table>
