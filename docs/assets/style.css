@@ -1,7 +1,7 @@
 /* Minimal stylesheet for the /docs Jekyll site */
 
 :root {
-  --maxw: 900px;
+  --maxw: 1100px;
   --pad: 16px;
   --bg: #ffffff;
   --fg: #002855;
