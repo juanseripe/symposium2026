@@ -50,7 +50,7 @@ title: Program
               Markets, Consumers and Meaning
             </td>
             <td>
-              {% assign workshop = site.workshops_en | where: "slug", "workshop-1" | first %}
+              {% assign workshop = site.workshops_en | where: "slug", "atelier-1" | first %}
               <strong>
                <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
               </strong><br>
