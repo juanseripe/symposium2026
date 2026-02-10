@@ -8,7 +8,6 @@ layout: default
   {% assign L_theme = "Thème" %}
   {% assign L_when  = "Quand" %}
   {% assign L_room  = "Salle" %}
-  {% assign L_tables = "Tables" %}
   {% assign L_table  = "Table" %}
   {% assign L_paper = "Titre" %}
   {% assign L_summary = "Résumé" %}
@@ -22,7 +21,6 @@ layout: default
   {% assign L_theme = "Theme" %}
   {% assign L_when  = "When" %}
   {% assign L_room  = "Room" %}
-  {% assign L_tables = "Tables" %}
   {% assign L_table  = "Table" %}
   {% assign L_paper = "Title" %}
   {% assign L_summary = "Summary" %}
@@ -43,8 +41,6 @@ layout: default
 <hr>
 
 {% if page.tables %}
-  <h2>{{ L_tables }}</h2>
-
   {% for t in page.tables %}
     <h3>{{ L_table }} {{ forloop.index }}{% if t.theme %}: {{ t.theme }}{% endif %}</h3>
 
@@ -53,10 +49,10 @@ layout: default
         <h4>{{ forloop.index }}. {{ p.name }}</h4>
         {% if p.paper_title %}<p><strong>{{ L_paper }}:</strong> {{ p.paper_title }}</p>{% endif %}
         {% if p.paper_summary %}<p><strong>{{ L_summary }}:</strong> {{ p.paper_summary }}</p>{% endif %}
-        <hr>
+        <br>
       {% endfor %}
     {% endif %}
-
+    <hr>
   {% endfor %}
 {% endif %}
 
