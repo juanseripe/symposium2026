@@ -49,7 +49,7 @@ layout: default
         <h4>{{ forloop.index }}. {{ p.name }}</h4>
         {% if p.paper_title %}<p><strong>{{ L_paper }}:</strong> {{ p.paper_title }}</p>{% endif %}
         {% if p.paper_summary %}<p><strong>{{ L_summary }}:</strong> {{ p.paper_summary }}</p>{% endif %}
-        <br>
+        {% unless forloop.last %}<br>{% endunless %}
       {% endfor %}
     {% endif %}
     <hr>
