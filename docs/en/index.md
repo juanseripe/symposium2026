@@ -13,7 +13,7 @@ With this spirit in mind, the Doctoral Symposium will return for its 5th edition
 
 ### Register now!
 
-<br><br>
+<br>
 <a href="https://luma.com/event/evt-XScxHZGgyKqAmUy"
 class="luma-checkout--button"   
 data-luma-action="checkout"   
