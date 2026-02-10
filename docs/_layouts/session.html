@@ -11,7 +11,11 @@ layout: default
   {% assign L_presentations = "Présentations" %}
   {% assign L_paper = "Article" %}
   {% assign L_summary = "Résumé" %}
-  {% assign date_fmt = "%-d %B %Y" %}
+  {% assign months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
+  {% assign m_index = page.date | date: "%-m" | minus: 1 %}
+  {% assign day_num = page.date | date: "%-d" %}
+  {% assign year_num = page.date | date: "%Y" %}
+  {% assign date_str = day_num | append: " " | append: months[m_index] | append: " " | append: year_num %}
 {% else %}
   {% assign L_theme = "Theme" %}
   {% assign L_when  = "When" %}
@@ -19,14 +23,14 @@ layout: default
   {% assign L_presentations = "Presentations" %}
   {% assign L_paper = "Paper" %}
   {% assign L_summary = "Summary" %}
-  {% assign date_fmt = "%B %-d, %Y" %}
+  {% assign date_str = page.date | date: "%B %-d, %Y" %}
 {% endif %}
 
 <h1>{{ page.title }}: {{ page.theme }}</h1>
 
 <p>
   <strong>{{ L_when }}:</strong>
-  {{ page.day }}{% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
+  {{ page.day }}{% if page.date %}, {{ date_str }}{% endif %}
   — {{ page.time_start }}–{{ page.time_end }}<br>
 
   <strong>{{ L_room }}:</strong>
