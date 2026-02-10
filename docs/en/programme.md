@@ -53,9 +53,9 @@ title: Program
               {% assign workshop = site.workshops_en | where: "slug", "workshop-1" | first %}
               <strong>
                <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
-              </strong> <em>by {{ workshop.facilitator }}</em><br>
+              </strong><br>
               <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
-              {{ workshop.theme }}
+              {{ workshop.theme }} <em>by {{ workshop.facilitator }}</em>
             </td>
             <td>
               <strong>Workshop #2</strong><br>
