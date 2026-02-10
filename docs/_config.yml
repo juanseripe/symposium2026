@@ -4,8 +4,20 @@ baseurl: ""
 url: "https://www.phdsymposium2026.ca"
 
 collections:
+  sessions_en:
+    output: true
+    permalink: /en/sessions/:name.html
+
   sessions:
     output: true
     permalink: /sessions/:name.html
+
+  workshops_en:
+    output: true
+    permalink: /en/ateliers/:name.html
+
+  workshops:
+    output: true
+    permalink: /ateliers/:name.html
 
 future: true

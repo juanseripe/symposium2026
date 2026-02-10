@@ -50,9 +50,12 @@ title: Program
               Markets, Consumers and Meaning
             </td>
             <td>
-              <strong>Workshop #1</strong><br>
-              <em>(C.406)</em><br>
-              The Alphabet of Chaos: An Arts-Based Exercise to Experience Creativity Under Constraints
+              {% assign workshop = site.ateliers_en | where: "slug", "workshop-1" | first %}
+              <strong>
+               <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a>
+              </strong> <em>by {{ workshop.facilitator }}</em><br>
+              <em>({{ workshop.room_code }} — {{ workshop.room_name }})</em><br>
+              {{ workshop.theme }}
             </td>
             <td>
               <strong>Workshop #2</strong><br>
@@ -75,7 +78,7 @@ title: Program
         <table class="parallel">
           <tr>
             <td>
-              {% assign session = site.sessions | where: "slug", "presentation-3" | first %}
+              {% assign session = site.sessions_en | where: "slug", "presentation-3" | first %}
               <strong>
                <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
               </strong><br>

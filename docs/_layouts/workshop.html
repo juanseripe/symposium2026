@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+{% if lang == "fr" %}
+  {% assign L_when = "Quand" %}
+  {% assign L_room = "Salle" %}
+  {% assign L_facilitator = "Animatrice" %}
+  {% assign L_language = "Langue de l’atelier" %}
+  {% assign L_capacity = "Capacité maximale" %}
+  {% assign L_description = "Description" %}
+  {% assign L_people = "personnes" %}
+  {% assign date_fmt = "%-d %B %Y" %}
+{% else %}
+  {% assign L_when = "When" %}
+  {% assign L_room = "Room" %}
+  {% assign L_facilitator = "Workshop facilitator" %}
+  {% assign L_language = "Language of the workshop" %}
+  {% assign L_capacity = "Maximum capacity" %}
+  {% assign L_description = "Description" %}
+  {% assign L_people = "people" %}
+  {% assign date_fmt = "%B %-d, %Y" %}
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+
+<p>
+  <strong>{{ L_when }}:</strong>
+  {{ page.day }}
+  {% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
+  {% if page.time_start and page.time_end %} — {{ page.time_start }}–{{ page.time_end }}{% endif %}<br>
+
+  {% if page.room_code or page.room_name %}
+    <strong>{{ L_room }}:</strong>
+    <em>
+      {% if page.room_code %}{{ page.room_code }}{% endif %}
+      {% if page.room_name %}{% if page.room_code %} — {% endif %}{{ page.room_name }}{% endif %}
+    </em><br>
+  {% endif %}
+
+  {% if page.facilitator %}
+    <strong>{{ L_facilitator }}:</strong> {{ page.facilitator }}<br>
+  {% endif %}
+
+  {% if page.workshop_language %}
+    <strong>{{ L_language }}:</strong> {{ page.workshop_language }}<br>
+  {% endif %}
+
+  {% if page.capacity %}
+    <strong>{{ L_capacity }}:</strong> {{ page.capacity }} {{ L_people }}<br>
+  {% endif %}
+</p>
+
+<hr>
+
+{% if page.description %}
+  <h2>{{ L_description }}</h2>
+  <p>{{ page.description }}</p>
+  <hr>
+{% endif %}
+
+{{ content }}

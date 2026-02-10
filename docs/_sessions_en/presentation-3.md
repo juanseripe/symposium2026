@@ -3,6 +3,7 @@ layout: session
 title: "Presentation Session #3"
 theme: "AI, Algorithmic Decision-Making & Fairness"
 type: "presentation-session"
+lang: "en"
 
 day: "Thursday"
 date: 2026-03-12

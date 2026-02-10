@@ -2,25 +2,50 @@
 layout: default
 ---
 
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+{% if lang == "fr" %}
+  {% assign L_theme = "Thème" %}
+  {% assign L_when  = "Quand" %}
+  {% assign L_room  = "Salle" %}
+  {% assign L_presentations = "Présentations" %}
+  {% assign L_paper = "Article" %}
+  {% assign L_summary = "Résumé" %}
+  {% assign date_fmt = "%-d %B %Y" %}
+{% else %}
+  {% assign L_theme = "Theme" %}
+  {% assign L_when  = "When" %}
+  {% assign L_room  = "Room" %}
+  {% assign L_presentations = "Presentations" %}
+  {% assign L_paper = "Paper" %}
+  {% assign L_summary = "Summary" %}
+  {% assign date_fmt = "%B %-d, %Y" %}
+{% endif %}
+
 <h1>{{ page.title }}</h1>
 
 <p>
-  {% if page.theme %}<strong>Theme:</strong> {{ page.theme }}<br>{% endif %}
-  <strong>When:</strong> {{ page.day }}{% if page.date %}, {{ page.date | date: "%B %-d, %Y" }}{% endif %}
+  {% if page.theme %}<strong>{{ L_theme }}:</strong> {{ page.theme }}<br>{% endif %}
+
+  <strong>{{ L_when }}:</strong>
+  {{ page.day }}
+  {% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
   — {{ page.time_start }}–{{ page.time_end }}<br>
-  <strong>Room:</strong> <em>{{ page.room_code }}{% if page.room_name %} — {{ page.room_name }}{% endif %}</em>
+
+  <strong>{{ L_room }}:</strong>
+  <em>{{ page.room_code }}{% if page.room_name %} — {{ page.room_name }}{% endif %}</em>
 </p>
 
 <hr>
 
 {% if page.presenters %}
-  <h2>Presentations</h2>
+  <h2>{{ L_presentations }}</h2>
 
   {% for p in page.presenters %}
     <h3>{{ forloop.index }}. {{ p.name }}</h3>
-    {% if p.paper_title %}<p><strong>Paper:</strong> {{ p.paper_title }}</p>{% endif %}
+    {% if p.paper_title %}<p><strong>{{ L_paper }}:</strong> {{ p.paper_title }}</p>{% endif %}
     {% if p.paper_summary %}
-      <p><strong>Summary:</strong> {{ p.paper_summary }}</p>
+      <p><strong>{{ L_summary }}:</strong> {{ p.paper_summary }}</p>
     {% endif %}
     <hr>
   {% endfor %}
