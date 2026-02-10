@@ -9,6 +9,17 @@ Ainsi, vous l’aurez compris, le Symposium doctoral sera de retour pour sa 5ᵉ
 
 ---
 
+### Inscrivez-vous ici !
+
+<a href="https://luma.com/event/evt-XScxHZGgyKqAmUy"
+class="luma-checkout--button"   
+data-luma-action="checkout"   
+data-luma-event-id="evt-XScxHZGgyKqAmUy">S'inscrire à l'événement</a> 
+ 
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+
+---
+
 ### Dates importantes
 
 - **30 janvier 2026** — Date limite : dépôt des propositions  
