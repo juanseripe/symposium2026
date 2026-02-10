@@ -24,12 +24,11 @@ layout: default
   {% assign date_fmt = "%B %-d, %Y" %}
 {% endif %}
 
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }}: {{page.theme}}</h1>
 
 <p>
   <strong>{{ L_when }}:</strong>
-  {{ page.day }}
-  {% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
+  {{ page.day }}{% if page.date %}, {{ page.date | date: date_fmt }}{% endif %}
   {% if page.time_start and page.time_end %} — {{ page.time_start }}–{{ page.time_end }}{% endif %}<br>
 
   {% if page.room_code or page.room_name %}
