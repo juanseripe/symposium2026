@@ -18,7 +18,7 @@ workshop_language: "French and English"
 capacity: 10
 
 description: >
-  Important Note: The workshop will be single-gender and is reserved for female students only.<br><br>
+  Important Note: The workshop is for female PhD students only.<br><br>
 
   The workshop is part of our project “Individual and collective resistance strategies of female doctoral students facing power dynamics at university, particularly in supervisory relationships.”<br><br>
 

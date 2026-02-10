@@ -171,8 +171,12 @@ title: Programme
         <table class="parallel">
           <tr>
             <td>
-              <strong>Table ronde</strong><br>
-              <em>(A.551)</em>
+              {% assign session = site.roundtables | where: "slug", "roundtable-1" | first %}
+              <strong>
+               <a href="{{ session.url | relative_url }}">{{ session.title }}</a>
+              </strong><br>
+              <em>({{ session.room_code }} — {{ session.room_name }})</em><br>
+              {{ session.theme }}
             </td>
             <td>
               {% assign workshop = site.workshops | where: "slug", "atelier-5" | first %}

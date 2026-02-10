@@ -20,4 +20,12 @@ collections:
     output: true
     permalink: /ateliers/:name.html
 
+  roundtables_en:
+    output: true
+    permalink: /en/tablesrondes/:name.html
+
+  roundtables:
+    output: true
+    permalink: /tablesrondes/:name.html
+
 future: true

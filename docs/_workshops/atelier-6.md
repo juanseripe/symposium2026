@@ -18,7 +18,7 @@ workshop_language: "français et anglais"
 capacity: 10
 
 description: >
-  Note importante: L’atelier se déroulera en non-mixité et est réservé aux étudiantes seulement.<br><br>
+  Note importante: L’atelier se déroulera en non-mixité et est réservé aux étudiantes en doctorat seulement.<br><br>
 
   L’atelier s’inscrit dans le cadre de notre projet « Stratégies de résistance individuelles et collectives des doctorantes face aux dynamiques de pouvoir à l’université, en particulier dans les relations de supervision »<br><br>
 

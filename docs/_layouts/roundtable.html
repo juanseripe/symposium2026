@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "en" %}
+
+{% if lang == "fr" %}
+  {% assign L_theme = "Thème" %}
+  {% assign L_when  = "Quand" %}
+  {% assign L_room  = "Salle" %}
+  {% assign L_tables = "Tables" %}
+  {% assign L_table  = "Table" %}
+  {% assign L_paper = "Titre" %}
+  {% assign L_summary = "Résumé" %}
+
+  {% assign months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
+  {% assign m_index = page.date | date: "%-m" | minus: 1 %}
+  {% assign day_num = page.date | date: "%-d" %}
+  {% assign year_num = page.date | date: "%Y" %}
+  {% assign date_str = day_num | append: " " | append: months[m_index] | append: " " | append: year_num %}
+{% else %}
+  {% assign L_theme = "Theme" %}
+  {% assign L_when  = "When" %}
+  {% assign L_room  = "Room" %}
+  {% assign L_tables = "Tables" %}
+  {% assign L_table  = "Table" %}
+  {% assign L_paper = "Title" %}
+  {% assign L_summary = "Summary" %}
+  {% assign date_str = page.date | date: "%B %-d, %Y" %}
+{% endif %}
+
+<h1>{{ page.title }}{% if page.theme %}: {{ page.theme }}{% endif %}</h1>
+
+<p>
+  <strong>{{ L_when }}:</strong>
+  {{ page.day }}{% if page.date %}, {{ date_str }}{% endif %}
+  {% if page.time_start and page.time_end %} — {{ page.time_start }}–{{ page.time_end }}{% endif %}<br>
+
+  <strong>{{ L_room }}:</strong>
+  <em>{{ page.room_code }}{% if page.room_name %} — {{ page.room_name }}{% endif %}</em>
+</p>
+
+<hr>
+
+{% if page.tables %}
+  <h2>{{ L_tables }}</h2>
+
+  {% for t in page.tables %}
+    <h3>{{ L_table }} {{ forloop.index }}{% if t.theme %}: {{ t.theme }}{% endif %}</h3>
+
+    {% if t.participants %}
+      {% for p in t.participants %}
+        <h4>{{ forloop.index }}. {{ p.name }}</h4>
+        {% if p.paper_title %}<p><strong>{{ L_paper }}:</strong> {{ p.paper_title }}</p>{% endif %}
+        {% if p.paper_summary %}<p><strong>{{ L_summary }}:</strong> {{ p.paper_summary }}</p>{% endif %}
+        <hr>
+      {% endfor %}
+    {% endif %}
+
+  {% endfor %}
+{% endif %}
+
+{{ content }}
