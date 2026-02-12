@@ -11,43 +11,70 @@ time_start: "11 h 15"
 time_end: "12 h 15"
 
 room_code: "A.551"
-room_name: ""
+room_name: "GDI"
 
 tables:
-  - theme: "Table 1 thème"
+  - theme: "Table 1 - WILL BE FROM 10:00 to 11:00 IN THE SAME ROOM"
     participants:
-      - name: "Josiane Lévesque"
-        paper_title: "La dynamique de négociation interne des gestionnaires face à leurs pratiques de surveillance numérique des employés"
+      - name: "Anusheh Ali Gauhar"
+        paper_title: "Home at Work: Exploring How Families Manage Relationships and Negotiate Domestic Boundaries in an Era of Remote Work"
         paper_summary: >
-          ...abstract...
+          This study examines how working from home (WFH) shapes domestic practices of individuals and the relationships of family members in the household. We address calls for research that urge researchers to explore how adoption of remote work has affected individuals’ use of domestic spaces. This study utilizes a practice-theoretical lens to explore how working from home affects practice elements (materials, meanings, and competences). We aim to employ a qualitative approach to answer our research questions, and rely on multiple data sources – semi-structured interviews, fieldwork, and netnography – to enrich our findings. We expect our findings to contribute to scholarly discourse on practice theories and help add clarity to the elusive concept of relational practices. Beyond theory, this research will have useful insights for practitioners and will help organizations set appropriate work requirements for their employees. 
 
-      - name: "Jamie Nam"
-        paper_title: "Understanding How Clinicians Respond to Perceived Threats in Electronic Health Record (EHR) Use"
+      - name: "Sunu Kim"
+        paper_title: "Collective Entrepreneurship of Return Migrants: How Shared Migration Trajectories Shape Return Migrants’ Entrepreneurship Upon Returning to Their Home Communities"
         paper_summary: >
-          ...abstract...
-
-  - theme: "Table 2 thème"
+          How do return migrants enact entrepreneurship after returning home? Prior entrepreneurship research has largely theorized entrepreneurial action in place-bound communities, offering limited leverage for understanding ventures built through cross-border ties and mobile life trajectories. We address this gap through an ongoing qualitative study of returnee entrepreneurship in Nepal. Drawing on preliminary fieldwork near the Kathmandu Valley, including 15 semi-structured interviews with 12 returnee entrepreneurs and participant observation across community and market settings, we find that post-return entrepreneurship is frequently organized through collective action rather than treated as an individual project. Returnees mobilize trust-based relationships forged through shared migration trajectories to coordinate capital, labor, and information, to structure interdependent investments across multiple ventures, and to buffer risk under local uncertainty. We conceptualize these dynamics as trajectory-based collective entrepreneurship, defined as entrepreneurial organizing grounded in interpersonal bonds produced through shared migratory experiences and sustained through reciprocity and obligation after return. The study extends community-based and inclusive entrepreneurship research by theorizing how collective agency can be constituted through transnational trajectories, not only through kinship, ethnicity, or stable place-based communities.
+      
+      - name: "Célaine Glacial"
+        paper_title: "The Impact of Frugality on Loyalty Program Usage"
+        paper_summary: >
+          This research investigates the paradoxical role of frugality in loyalty program usage. Frugality reflects consumers’ tendency to restrain acquisition and maximize the utility of resources in pursuit of long-term goals. While frugal consumers are motivated by saving rather than spending avoidance, their engagement with loyalty programs remains poorly understood. Using a field study conducted within one of the largest airline loyalty programs in North America, this research combines two years of actual behavioral data with psychometric measures of frugality (N = 6,274). Results show that frugal consumers accumulate fewer loyalty points overall, both through flight purchases and affiliated credit card usage, and consequently redeem fewer points in absolute terms. However, despite lower consumption levels, frugal consumers exhibit a higher usage ratio, indicating more frequent redemptions relative to their accumulation activity. These findings suggest that frugality does not reduce loyalty program participation per se, but rather alters how consumers engage with such programs. Frugal consumers appear to strategically leverage loyalty points as non-monetary resources to preserve financial capital, consistent with a mental accounting perspective. This study contributes to research on anti-consumption and loyalty programs by demonstrating that frugality reshapes, rather than suppresses, marketplace engagement. Managerially, the results highlight the value of loyalty program designs that facilitate frequent, low-threshold redemptions to better accommodate frugal consumers.
+          
+  - theme: "Table 2"
     participants:
-      - name: "Victoria Oluwakemi Okesipe"
-        paper_title: "Designing Effective Technology-Mediated Learning Environments: A Cognitive-Affective Framework"
+      - name: "Jose Manuel Sanchez Martinez"
+        paper_title: "Specialness without Safety:Regulation and Convenience Yields in Sovereign Bonds"
         paper_summary: >
-          ...abstract...
+          This work studies whether financial regulation generates convenience yields for local-currency sovereign bonds issued by emerging market economies. While the literature links convenience yields with global safety and liquidity, my work instead emphasizes the institutional role of domestic sovereign bonds within local financial systems, even when they are not globally safe. The paper shows that regulation grants special status to these bonds, creating valuation wedges relative to otherwise comparable assets. However, sovereign default risk and other convenience yield components in safe assets confound the measurement of the regulatory pricing wedge. This motivates an identification strategy that compares yields on bonds issued by the same country in different currencies. The model and empirical identification provide scope to incorporate monetary and fiscal policy effects into convenience yields. In particular, the framework can be extended to study how local and foreign central bank liquidity facilities and asset purchase programs change the specialness of domestic sovereign bonds during periods of financial stress.
 
-      - name: "Félix Joly"
-        paper_title: "Understanding the Role of Legitimacy in the Adoption of Electronic Personal Health Records: A Multi-Stakeholder Perspective"
+      - name: "Abby Golub"
+        paper_title: "Sifting and Refining: Practices and Support for Selective Digital Bricolage"
         paper_summary: >
-          ...abstract...
+          Bricolage is an approach that uses resources at hand to make solutions for challenges as they arise. Being “selective” has been theorized as the distinguishing factor between bricolage with positive and negative outcomes. But what does it really mean to be selective? How does an organization become or practice being “selective”? This project in process provides empirical evidence from an action design project in an organization actively involved in selection. The case includes observations, participation, and interviews to gain perspective on what selection looks like over time in the journey of a nonprofit organization learning to leverage digital technologies. The paper contributes to the literature by clarifying mechanisms to distinguish successful digital bricolage, and contributes to practice by determining practices or capabilities for an organization to consider developing. It will also assist those organizations who support entrepreneurs to understand how best to intervene with entrepreneurs doing bricolage in a digital context and with digital tools.  
 
-
-  - theme: "Table 3 thème"
+  - theme: "Table 3"
     participants:
-      - name: "Josiane Lévesque"
-        paper_title: "La dynamique de négociation interne des gestionnaires face à leurs pratiques de surveillance numérique des employés"
+      - name: "Nicolas Turcotte-Légaré"
+        paper_title: "Gestion de la tension entre bien-être des personnes et performance : une étude méta-synthèse de portée"
         paper_summary: >
-          ...abstract...
+          Une méta‑synthèse de portée (meta-scoping review) est réalisée afin de cartographier les connaissances actuelles sur l’impact des pratiques de gestion des ressources humaines (GRH) à la fois sur la performance individuelle et organisationnelle et sur le bien‑être et la santé des employés. Deux questions de recherche sont formulées : (1) que savons‑nous aujourd’hui des effets conjoints des pratiques de GRH à la fois sur la performance et le bien-être? (2) quelles pistes de recherche prometteuses pourraient faire progresser la compréhension de ce phénomène ? Une recension de toutes les synthèses réalisées sur le thème est en cours de complétion. Les résultats préliminaires montrent peu de recoupement entre les synthèses individuelles, révélant ainsi peu d'intégration dans la recherche qui capture plusieurs perspectives théoriques, niveaux d'analyses, types de pratiques, rôles des acteurs. Le début d'une analyse thématique de contenu sera présenté.
 
-      - name: "Jamie Nam"
-        paper_title: "Understanding How Clinicians Respond to Perceived Threats in Electronic Health Record (EHR) Use"
+      - name: "Marie-Eugénie Lamare"
+        paper_title: "Constructing Mandatory Human Rights Due Diligence: A Historical and Discursive analysis of its institutionalization"
         paper_summary: >
-          ...abstract...
+          Human Rights Due Diligence (HRDD) laws have recently emerged as a central governance instrument to regulate multinational enterprises and improve social conditions in global production. Rooted in the “protect, respect, and remedy” framework of the UN Guiding Principles on Business and Human Rights, and subsequently embedded in OECD guidelines, HRDD has increasingly moved from a voluntary scheme to a legal obligation across multiple jurisdictions. While existing scholarship has examined the normative foundations, implementation challenges, and regulatory potential of HRDD, little attention has been paid to the power relations and discursive struggles that shape its legal construction. This paper addresses this gap by examining how HRDD has been institutionalized through national legislation using a historical and discursive approach. Drawing on discourse analysis of recent HRDD laws across countries, the study analyzes how HRDD is defined, balanced, and articulated in relation to broader notions of human rights, responsibility, and risk. Conceptualizing law as a socially constructed outcome of negotiation and meaning-making, the analysis uncovers the normative trade-offs and power dynamics embedded in legal texts. The paper contributes to the HRDD literature by demonstrating that HRDD is not a neutral or self-evident governance tool, but the product of contested ideas and institutional compromises. In doing so, it clarifies persistent conceptual ambiguities and offers a critical perspective on how responsibility and human rights are framed in both legal and management research.
+          
+      - name: "Axel Richecoeur"
+        paper_title: "Comment les innovations managériales reconfigurent les dynamiques de pouvoir au sein des organisations ?"
+        paper_summary: >
+          "Mon projet de recherche analyse comment les innovations managériales et, plus largement, les expériences quotidiennes reconfigurent les dynamiques de pouvoir dans les organisations. Il s’intéresse à la manière dont les individus vivent, interprètent et racontent ces dynamiques, afin d’ancrer des concepts théoriques abstraits dans des réalités concrètes. L’approche épistémologique vise une recherche accessible, tant par le style que par les thématiques, en s’appuyant sur des « histoires du quotidien » pour rendre le pouvoir audible à travers des récits ordinaires. La méthodologie repose sur un panel de huit personnes issues d’organisations et de niveaux hiérarchiques variés. Une première entrevue permet de contextualiser leurs rapports au travail. Ensuite, toutes les deux semaines, une question déclencheuse invite les participants à raconter des situations vécues sous forme de messages vocaux, proches d’un journal de bord réflexif. Des entrevues bimestrielles approfondissent ces récits. Les premiers résultats, encore exploratoires, montrent l’émergence de trajectoires singulières. L’objectif est de comparer les réactions à des événements similaires afin d’identifier des régularités et, éventuellement, une typologie des réponses aux dynamiques de pouvoir.
+        
+  - theme: "Table 4"
+    participants:
+      - name: "Karl Janelle"
+        paper_title: "Négocier le futur démocratique des communeautés énergétique : des ateliers de prospective pour la formation de coalitions au Québec"
+        paper_summary: >
+          In Québec, the energy transition is unfolding within a centralized, state-dominated yet increasingly market-oriented electricity regime. Bill reforms, the state-owned utility's new strategic orientations, and subsidies to private mega-projects recast public hydroelectricity as an engine of accumulation while narrowing space for alternatives. At the same time, a plethora of other actors promote energy democracy, local control, and sufficiency. This paper examines how tensions between public and community energy are negotiated when these actors attempt to build a shared political project. The Energy Democracy Workshops are a meso-level political experiment in coalition-building. The project convenes organizations located in different “modes of social transformation”: interstitial (community and co-operative initiatives), symbiotic (actors in public institutions such as municipalities and unions), and ruptural (groups contesting the dominant accumulation regime). Rather than supporting a single local project, the workshops create a deliberative space where these actors diagnose Québec’s energy regime, articulate visions of energy democracy, and explore strategic trajectories that cut across public–community boundaries. Methodologically, the experiment combines transition-experiment design and action-research, structured around contextual exploration, collective visioning, strategy development, and reflexive evaluation. The analysis traces how different perspectives around tariffs, scale, ownership, democratic planning, energy justice, and technological conviviality can be productive frictions, as they are surfaced, managed, or left unresolved. The paper makes a theoretical and strategic contribution by defining transformational strategy as the negotiated coordination of transformative logics under constraint, helping movements avoid the “purity trap” that can stall coalition-building. We then show how an alternative organization can function as movement infrastructure linking interstitial, symbiotic, and ruptural actors, and we distill a transferable strategic repertoire to navigate cooptation, institutional lock-in, and depoliticization risks.
+
+      - name: "Jason Rivest"
+        paper_title: "Le rôle des méta-organisations coopératives dans la diffusion de pratiques socio-écologiques, une gouvernance partagée"
+        paper_summary: >
+          La transition vers une économie circulaire représente un enjeu majeur pour les organisations, mais son déploiement ne dépend pas uniquement d’initiatives individuelles. Cette communication s’intéresse au rôle des méta-organisations coopératives, c’est-à-dire des organisations dont les membres sont eux-mêmes des coopératives, dans la diffusion et la structuration de pratiques d’économie circulaire. S’appuyant sur la théorie institutionnelle et le concept d’entrepreneuriat institutionnel, cette recherche examine comment ces acteurs collectifs contribuent à orienter les pratiques, à soutenir l’apprentissage collectif et à légitimer de nouveaux cadres d’action au sein des réseaux coopératifs. L’analyse repose sur une étude de cas menée dans l’écosystème coopératif québécois et canadien, portant sur une fédération coopérative. Les résultats préliminaires mettent en évidence plusieurs mécanismes d’influence, notamment la création d’espaces de concertation, le développement de formations adaptées, la mobilisation de ressources et l’établissement de conventions partagées. L’étude montre que l’action des méta-organisations s’inscrit dans des processus graduels et négociés, compatibles avec la gouvernance démocratique des coopératives. En mettant l’accent sur les dynamiques interorganisationnelles, cette communication invite à repenser la gouvernance collective des transitions socio-écologiques.
+          
+      - name: "IsaX Michon-Dupuis"
+        paper_title: "Table ronde autour du protocole de recherche d’un scoping review assisté par l’AI d’Elicit"
+        paper_summary: >
+          Cette discussion portera autour du cadre méthodologique d’un article en cours de construction portant sur la portée de la littérature des outils de mesure de l’inclusion du travailleur neurodivergent. L’utilisation de l’intelligence artificielle pour assister la rédaction d’un examen de la portée est encore dans ses débuts et les personnes participantes sont invitées à lire l’un des articles de De La Torre-López (et al., 2023) ou de Fabiano (et al., 2024). Les autrices ont mené un projet pilote d’examen de la portée qui comprenait uniquement des articles des années 2024 et 2025. L'extraction des données était réalisée par un évaluateur, et la sélection des articles était réalisée en parallèle à l'aide de l'outil d’IA Elicit et d'un second relecteur en double aveugle. Les données de dossier et l'analyse ont été réalisées par des évaluateurs sans Elicit.  Toutefois, le protocole de recherche s’est avéré un échec, car plusieurs éléments erronés ont été découverts durant l’assistance d’Elicit, et ont diminué la qualité des sélections des articles ainsi que la rigueur de l’analyse. Ainsi, ce projet pilote a offert une excellente opportunité de tester l'aide de l'IA dans un protocole de recherche et mieux comprendre son utilisation dans un scoping review. 
+---
 ---
