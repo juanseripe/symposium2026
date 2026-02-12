@@ -37,6 +37,13 @@ Bien que la signalétique du pavillon Hélène-Desmarais ne puisse être modifi�
 
 ---
 
+#### Salle d’allaitement & tables à langer
+
+L’édifice Hélène-Desmarais est équipé d’une **salle d’allaitement** et de **tables à langer**, situées au **6e étage**, **aile A**, salle **A.699**.  
+Pour y accéder, veuillez demander la clé au **comptoir principal de la sécurité** (**1er étage**, **aile B**, salle **B.105**) ou appeler au **514 340-3869**.
+
+---
+
 ### Besoins d’accommodement
 
 Pour toute question relative à un accommodement spécifique pendant le symposium, veuillez communiquer avec nous par courriel :  

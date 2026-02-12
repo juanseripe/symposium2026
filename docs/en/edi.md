@@ -37,6 +37,13 @@ While building signage at the Hélène-Desmarais Building cannot be changed, som
 
 ---
 
+#### Lactation room & changing tables
+
+The Hélène-Desmarais Building has a **lactation room** and **changing tables** located on the **6th floor**, **Wing A**, room **A.699**.  
+To access it, please request the key at the **main Security desk** (**1st floor**, **Wing B**, room **B.105**) or call **514-340-3869**.
+
+---
+
 ### Accommodation requests
 
 For any questions regarding a specific accommodation during the Symposium, please contact us by email:  

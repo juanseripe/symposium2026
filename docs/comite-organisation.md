@@ -28,10 +28,55 @@ Le comité comprend des représentant·es étudiant·es et des membres du corps 
 
 ---
 
-### Comité scientifique
+### Comité organisationnel général
 
-*Détails à venir*
+- Félix Joly  
+- Karl Janelle  
+- Marie-Eugénie Lamare  
 
 ---
 
-*La composition des comités et les rôles seront publiés au fur et à mesure des confirmations.*
+### Responsable du site internet
+
+- Juan Sebastian Riveros Perez  
+
+---
+
+### Comité logistique
+
+- Seyed Shayan Nazemi  
+- Paul Hernandez  
+- Sama Gholami  
+- Toho Serges Stephane Kambire  
+
+---
+
+### Comité communication
+
+- Célaine Glacial  
+- Helena Campos Gutierrez  
+- Houria Hadjadji  
+- Karelle L’Heureux  
+- Nicolas Turcotte-Légaré  
+- Seyed Shayan Nazemi  
+
+---
+
+### Comité de sélection
+
+- André Luis Bezerra Cavalcanti Godoi  
+- Hourik Sarafian  
+- Juliette Ellul  
+- Karl Janelle  
+- Margaux Maurel  
+- Nicolas Turcotte-Légaré  
+- Seyed Shayan Nazemi  
+
+---
+
+### Comité EDI
+
+- Isax Michon-Dupuis  
+- Seyed Shayan Nazemi  
+- Toho Serges Stephane Kambire  
+- Margaux Maurel  
