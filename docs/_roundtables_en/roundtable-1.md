@@ -14,7 +14,7 @@ room_code: "A.551"
 room_name: "GDI"
 
 tables:
-  - theme: "Table 1 - WILL BE FROM 10:00 to 11:00 IN THE SAME ROOM"
+  - theme: "WILL BE FROM 10:00 to 11:00 IN THE SAME ROOM"
     participants:
       - name: "Anusheh Ali Gauhar"
         paper_title: "Home at Work: Exploring How Families Manage Relationships and Negotiate Domestic Boundaries in an Era of Remote Work"
@@ -31,7 +31,7 @@ tables:
         paper_summary: >
           This research investigates the paradoxical role of frugality in loyalty program usage. Frugality reflects consumers’ tendency to restrain acquisition and maximize the utility of resources in pursuit of long-term goals. While frugal consumers are motivated by saving rather than spending avoidance, their engagement with loyalty programs remains poorly understood. Using a field study conducted within one of the largest airline loyalty programs in North America, this research combines two years of actual behavioral data with psychometric measures of frugality (N = 6,274). Results show that frugal consumers accumulate fewer loyalty points overall, both through flight purchases and affiliated credit card usage, and consequently redeem fewer points in absolute terms. However, despite lower consumption levels, frugal consumers exhibit a higher usage ratio, indicating more frequent redemptions relative to their accumulation activity. These findings suggest that frugality does not reduce loyalty program participation per se, but rather alters how consumers engage with such programs. Frugal consumers appear to strategically leverage loyalty points as non-monetary resources to preserve financial capital, consistent with a mental accounting perspective. This study contributes to research on anti-consumption and loyalty programs by demonstrating that frugality reshapes, rather than suppresses, marketplace engagement. Managerially, the results highlight the value of loyalty program designs that facilitate frequent, low-threshold redemptions to better accommodate frugal consumers.
           
-  - theme: "Table 2"
+  - theme: ""
     participants:
       - name: "Jose Manuel Sanchez Martinez"
         paper_title: "Specialness without Safety:Regulation and Convenience Yields in Sovereign Bonds"
@@ -43,7 +43,7 @@ tables:
         paper_summary: >
           Bricolage is an approach that uses resources at hand to make solutions for challenges as they arise. Being “selective” has been theorized as the distinguishing factor between bricolage with positive and negative outcomes. But what does it really mean to be selective? How does an organization become or practice being “selective”? This project in process provides empirical evidence from an action design project in an organization actively involved in selection. The case includes observations, participation, and interviews to gain perspective on what selection looks like over time in the journey of a nonprofit organization learning to leverage digital technologies. The paper contributes to the literature by clarifying mechanisms to distinguish successful digital bricolage, and contributes to practice by determining practices or capabilities for an organization to consider developing. It will also assist those organizations who support entrepreneurs to understand how best to intervene with entrepreneurs doing bricolage in a digital context and with digital tools.  
 
-  - theme: "Table 3"
+  - theme: ""
     participants:
       - name: "Nicolas Turcotte-Légaré"
         paper_title: "Gestion de la tension entre bien-être des personnes et performance : une étude méta-synthèse de portée"
@@ -60,7 +60,7 @@ tables:
         paper_summary: >
           "Mon projet de recherche analyse comment les innovations managériales et, plus largement, les expériences quotidiennes reconfigurent les dynamiques de pouvoir dans les organisations. Il s’intéresse à la manière dont les individus vivent, interprètent et racontent ces dynamiques, afin d’ancrer des concepts théoriques abstraits dans des réalités concrètes. L’approche épistémologique vise une recherche accessible, tant par le style que par les thématiques, en s’appuyant sur des « histoires du quotidien » pour rendre le pouvoir audible à travers des récits ordinaires. La méthodologie repose sur un panel de huit personnes issues d’organisations et de niveaux hiérarchiques variés. Une première entrevue permet de contextualiser leurs rapports au travail. Ensuite, toutes les deux semaines, une question déclencheuse invite les participants à raconter des situations vécues sous forme de messages vocaux, proches d’un journal de bord réflexif. Des entrevues bimestrielles approfondissent ces récits. Les premiers résultats, encore exploratoires, montrent l’émergence de trajectoires singulières. L’objectif est de comparer les réactions à des événements similaires afin d’identifier des régularités et, éventuellement, une typologie des réponses aux dynamiques de pouvoir.
         
-  - theme: "Table 4"
+  - theme: ""
     participants:
       - name: "Karl Janelle"
         paper_title: "Négocier le futur démocratique des communeautés énergétique : des ateliers de prospective pour la formation de coalitions au Québec"
