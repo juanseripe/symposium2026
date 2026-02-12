@@ -14,7 +14,7 @@ room_code: "A.551"
 room_name: "GDI"
 
 tables:
-  - theme: "WILL BE FROM 10:00 to 11:00 IN THE SAME ROOM"
+  - theme: "SE TIENDRA DE 10H00 À 11H00 DANS LA MÊME SALLE"
     participants:
       - name: "Anusheh Ali Gauhar"
         paper_title: "Home at Work: Exploring How Families Manage Relationships and Negotiate Domestic Boundaries in an Era of Remote Work"
