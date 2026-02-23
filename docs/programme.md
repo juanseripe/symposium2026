@@ -122,7 +122,7 @@ title: Programme
       <td><strong>17 h 30 – 20 h 30</strong></td>
       <td>
         <strong>Cocktail</strong> et allocution de la direction du programme de doctorat de HEC Montréal<br>
-        <em>(A.878 – Guy-Fréchette)</em>
+        <em>(B.307 – Salle multifonctionnelle)</em>
       </td>
     </tr>
   </tbody>

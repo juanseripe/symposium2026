@@ -10,7 +10,7 @@ date: 2026-03-13
 time_start: "15 h 30"
 time_end: "17 h 00"
 
-room_code: "C.551"
+room_code: "A.551"
 room_name: "GDI"
 
 facilitator: "Marie-Claire Hamel"

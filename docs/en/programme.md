@@ -122,7 +122,7 @@ title: Program
       <td><strong>17:30–20:30</strong></td>
       <td>
         <strong>Cocktail reception</strong> and speech by the HEC PhD Program Director<br>
-        <em>(A.878 – Guy-Fréchette)</em>
+        <em>(B.307 – Multipurpose room)</em>
       </td>
     </tr>
   </tbody>
