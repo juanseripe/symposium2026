@@ -10,8 +10,8 @@ date: 2026-03-13
 time_start: "13:30"
 time_end: "15:00"
 
-room_code: "C.539"
-room_name: "Saïd Business School"
+room_code: "C.515"
+room_name: "Guilford"
 
 presenters:
   - name: "Maxime Robin"
@@ -28,4 +28,9 @@ presenters:
     paper_title: "Taking Agency, Values, and Interest Seriously: The Role of Top Managers and Regulators in Decoupling"
     paper_summary: >
       Isomorphism and decoupling are the two central arguments in the neo-institutional theory of organizations. While the former emphasizes diffusion and similarity in structure and practices across organizations within the same field, the latter implies agency, values, and interests in an organization’s responses to institutional pressures. The paper offers a conceptual clarification of decoupling, based on which it advances two novel constructs, top managers’ perceived costs of decoupling and top managers’ value incompatibility, to explain the likelihood of decoupling. Further, the paper proposes regulative decoupling as a distal construct that influences top managers’ perceived costs of decoupling. Two key process mechanisms, top managers’ sense-giving and ceremonial enforcing, are proposed to explicate the proposed relationships. The paper is, above all, an attempt to elaborate the conception of decoupling.
+  
+  - name: "Pauline Faivre"
+    paper_title: "Repenser les fondements de la théorie néo-institutionnelle pour théoriser la transformation radicale : Le cas de la Gériatrie Sociale au Québec"
+    paper_summary: >
+      Nous argumentons pour une refondation complète des fondations ont-épistémologiques de la théorie néo-institutionnelle dans le contexte de son incapacité à théoriser les transformations radicales. Nous proposons trois axes pour ré-imaginer ses fondements. En proposant l’infrastructure préfigurative comme cadre d’analyse et pont entre le travail institutionnel et la politique préfigurative, nous offrons les ressources conceptuelles pour penser l’innovation sociale comme véritablement transformatrice lorsque, comme dans le cas de la Gériatrie Sociale au Québec, elle ne se contente pas d’améliorer l’existant mais construit les fondements d’un autre paradigme.
 ---

@@ -10,11 +10,11 @@ date: 2026-03-13
 time_start: "11 h 15"
 time_end: "12 h 15"
 
-room_code: "A.551"
-room_name: "GDI"
+room_code: "A.551 & A.549"
+room_name: "GDI & Port-Moresby"
 
 tables:
-  - theme: "SE TIENDRA DE 10H00 À 11H00 DANS LA MÊME SALLE"
+  - theme: "SE TIENDRA DE 10H00 À 11H00 DANS LA SALLE A.551 (GDI)"
     participants:
       - name: "Anusheh Ali Gauhar"
         paper_title: "Home at Work: Exploring How Families Manage Relationships and Negotiate Domestic Boundaries in an Era of Remote Work"
@@ -31,7 +31,7 @@ tables:
         paper_summary: >
           This research investigates the paradoxical role of frugality in loyalty program usage. Frugality reflects consumers’ tendency to restrain acquisition and maximize the utility of resources in pursuit of long-term goals. While frugal consumers are motivated by saving rather than spending avoidance, their engagement with loyalty programs remains poorly understood. Using a field study conducted within one of the largest airline loyalty programs in North America, this research combines two years of actual behavioral data with psychometric measures of frugality (N = 6,274). Results show that frugal consumers accumulate fewer loyalty points overall, both through flight purchases and affiliated credit card usage, and consequently redeem fewer points in absolute terms. However, despite lower consumption levels, frugal consumers exhibit a higher usage ratio, indicating more frequent redemptions relative to their accumulation activity. These findings suggest that frugality does not reduce loyalty program participation per se, but rather alters how consumers engage with such programs. Frugal consumers appear to strategically leverage loyalty points as non-monetary resources to preserve financial capital, consistent with a mental accounting perspective. This study contributes to research on anti-consumption and loyalty programs by demonstrating that frugality reshapes, rather than suppresses, marketplace engagement. Managerially, the results highlight the value of loyalty program designs that facilitate frequent, low-threshold redemptions to better accommodate frugal consumers.
           
-  - theme: ""
+  - theme: "A.551 (GDI)"
     participants:
       - name: "Jose Manuel Sanchez Martinez"
         paper_title: "Specialness without Safety:Regulation and Convenience Yields in Sovereign Bonds"
@@ -48,7 +48,7 @@ tables:
         paper_summary: >
           This paper examines how the relationship between environmental, social, and governance (ESG) performance and financial performance evolves following an exogenous shock, focusing on the COVID-19 crisis in Canada. While prior research generally finds a positive association between ESG and financial outcomes—drawing on the resource-based view (RBV)—evidence during crisis periods remains mixed. Integrating RBV with behavioral finance theory, the authors argue that heightened uncertainty may temporarily weaken the ESG–financial performance link as investors prioritize short-term survival over long-term strategic capabilities. Using regression analyses on 121 Canadian firms listed on the S&P/TSX Index (954 firm-year observations), the study compares crisis (Q1 2020), recovery (Q2–Q4 2020), and normalization (2021) periods. Results show no significant association during the crisis, but a positive and stronger relationship during recovery. The findings contribute theoretically, empirically, and practically by clarifying how ESG value creation depends on temporal and contextual conditions.  
 
-  - theme: ""
+  - theme: "A.549 (Port-Moresby)"
     participants:
       - name: "Nicolas Turcotte-Légaré"
         paper_title: "Gestion de la tension entre bien-être des personnes et performance : une étude méta-synthèse de portée"
@@ -65,7 +65,7 @@ tables:
         paper_summary: >
           "Mon projet de recherche analyse comment les innovations managériales et, plus largement, les expériences quotidiennes reconfigurent les dynamiques de pouvoir dans les organisations. Il s’intéresse à la manière dont les individus vivent, interprètent et racontent ces dynamiques, afin d’ancrer des concepts théoriques abstraits dans des réalités concrètes. L’approche épistémologique vise une recherche accessible, tant par le style que par les thématiques, en s’appuyant sur des « histoires du quotidien » pour rendre le pouvoir audible à travers des récits ordinaires. La méthodologie repose sur un panel de huit personnes issues d’organisations et de niveaux hiérarchiques variés. Une première entrevue permet de contextualiser leurs rapports au travail. Ensuite, toutes les deux semaines, une question déclencheuse invite les participants à raconter des situations vécues sous forme de messages vocaux, proches d’un journal de bord réflexif. Des entrevues bimestrielles approfondissent ces récits. Les premiers résultats, encore exploratoires, montrent l’émergence de trajectoires singulières. L’objectif est de comparer les réactions à des événements similaires afin d’identifier des régularités et, éventuellement, une typologie des réponses aux dynamiques de pouvoir.
         
-  - theme: ""
+  - theme: "A.549 (Port-Moresby)"
     participants:
       - name: "Karl Janelle"
         paper_title: "Négocier le futur démocratique des communeautés énergétique : des ateliers de prospective pour la formation de coalitions au Québec"

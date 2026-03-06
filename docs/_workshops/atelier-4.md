@@ -10,7 +10,7 @@ date: 2026-03-13
 time_start: "9 h 00"
 time_end: "11 h 00"
 
-room_code: "A.505"
+room_code: "C.505"
 room_name: "Aimé Quintal"
 
 facilitator: "Justine-Anne Rowell"
