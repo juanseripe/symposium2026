@@ -44,6 +44,12 @@ To access it, please request the key at the **main Security desk** (**1st floor*
 
 ---
 
+#### Quiet rooms
+
+A quiet room will be available throughout the event. It is designed to provide a calm and quiet space, ideal for relaxing, recharging your batteries, meditating, or working quietly. On **Thursday**, the rest room will be **A.449 Melbourne (4th floor)**, and on **Friday**, it will be **C.539 Saïd Business School (5th floor)**.
+
+---
+
 ### Accommodation requests
 
 For any questions regarding a specific accommodation during the Symposium, please contact us by email:  

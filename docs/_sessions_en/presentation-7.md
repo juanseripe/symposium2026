@@ -11,7 +11,7 @@ time_start: "13:30"
 time_end: "15:00"
 
 room_code: "C.515"
-room_name: "Guilford"
+room_name: "Aimé Quintal"
 
 presenters:
   - name: "Maxime Robin"

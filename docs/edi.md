@@ -44,6 +44,12 @@ Pour y accéder, veuillez demander la clé au **comptoir principal de la sécuri
 
 ---
 
+#### Salles de repos
+
+Une salle de repos est à votre disposition tout au long de l’événement. Elle est conçue pour offrir un espace calme et silencieux, idéal pour se détendre, se ressourcer, méditer ou travailler tranquillement. La salle de repos du **jeudi** sera la **A.449 Melbourne (4ème étage)** et celle du **vendredi** sera la **C.539 Saïd Business School (5ème étage)**.
+
+---
+
 ### Besoins d’accommodement
 
 Pour toute question relative à un accommodement spécifique pendant le symposium, veuillez communiquer avec nous par courriel :  
