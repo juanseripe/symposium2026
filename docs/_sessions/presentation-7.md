@@ -10,7 +10,7 @@ date: 2026-03-13
 time_start: "13 h 30"
 time_end: "15 h 00"
 
-room_code: "C.515"
+room_code: "C.505"
 room_name: "Aimé Quintal"
 
 presenters:
