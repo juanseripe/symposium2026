@@ -9,11 +9,17 @@ title: EDI
 
 ### Valeurs de la conférence et code de conduite
 
-Le Symposium s’engage à être aussi inclusif et divers que possible, ainsi qu’à promouvoir des relations honnêtes et respectueuses entre toutes les personnes qui y participent.
+<div class="edi_intro">
+  <div>
+    <p>Le Symposium s’engage à être aussi inclusif et divers que possible, ainsi qu’à promouvoir des relations honnêtes et respectueuses entre toutes les personnes qui y participent.</p>
+    <p>Le Symposium veut créer un environnement sûr et agir contre la discrimination et le harcèlement. Cette position implique des principes et des valeurs.</p>
+    <p>Le Symposium reconnaît que nous vivons dans un système capitaliste, colonial, impérialiste, structurellement sexiste, raciste, classiste, validiste et hétéronormatif. Ces systèmes d’oppression se croisent de manière interdépendante et sont donc vécus par les individus de manière intersectionnelle. Les individus peuvent donc subir simultanément des discriminations sexistes, racistes, classistes, lgbtqia+phobe, islamophobe, antisémite, et/ou validiste.</p>
+  </div>
 
-Le Symposium veut créer un environnement sûr et agir contre la discrimination et le harcèlement. Cette position implique des principes et des valeurs.
-
-Le Symposium reconnaît que nous vivons dans un système capitaliste, colonial, impérialiste, structurellement sexiste, raciste, classiste, validiste et hétéronormatif. Ces systèmes d’oppression se croisent de manière interdépendante et sont donc vécus par les individus de manière intersectionnelle. Les individus peuvent donc subir simultanément des discriminations sexistes, racistes, classistes, lgbtqia+phobe, islamophobe, antisémite, et/ou validiste.
+  <img class="side-image"
+       src="{{ '/assets/img/edi.png' | relative_url }}"
+       alt="Illustration EDI">
+</div>
 
 #### Principes fondamentaux et valeurs
 
@@ -29,7 +35,7 @@ L’accessibilité vise à garantir la possibilité à toutes et à tous de pren
 
 - **Communication accessible :** Utilisation d'un langage inclusif en français, utilisation de plusieurs langues (tous les supports sont bilingues français et anglais), identification en amont des différentes langues parlées par les participantes et les participants, utilisation de supports visuels.
 - **Accessibilité logistique :** Assurance que le lieu est accessible à toutes et à tous, création de cartes détaillées. Lieux accessibles en transport en commun, portes automatiques, ascenseurs, salles accessibles aux personnes à mobilité réduite, mise à disposition d’un espace de repos-calme.
-- **Nourriture :** Des options végétariennes, végétaliennes, sans allergènes. Prise en compte des fêtes religieuses qui ont lieu pendant le Symposium (incluant le ramadan et le carême), communication auprès de toutes les participantes et les participants à propos des options pour la nourriture et pour les personnes jeunant. 
+- **Nourriture :** Des options végétariennes, végétaliennes, sans allergènes. Prise en compte des fêtes religieuses qui ont lieu pendant le Symposium (incluant le ramadan et le carême), communication auprès de toutes les participantes et les participants à propos des options pour la nourriture et pour les personnes jeunant.
 
 #### Principes pour garantir les valeurs
 
@@ -50,16 +56,19 @@ Les sentinelles sont des personnes bénévoles ayant une sensibilité particuli�
 
 En cas d’incident, une solution sera discutée en mettant au cœur de la réflexion le vécu de la personne victime.
 
-*L’organisation de cet évènement s’est faite dans les limites des capacités humaines et des ressources matérielles et financières des différents comités impliqués bénévolement.*
+&nbsp;&nbsp;**L’organisation de cet évènement s’est faite dans les limites des capacités humaines et des ressources matérielles et financières des différents comités impliqués bénévolement.*
+
+---
 
 Sources utilisées pour écrire la chartre :
-https://www.canada.ca/content/dam/wage-fegc/documents/gba-/gba--resources-inclusive-event-planning/inclusive-inclusif-fr.pdf
 
-https://culturecotenord.com/wp-content/uploads/2023/06/Charte_FR.pdf
+&nbsp;&nbsp;https://www.canada.ca/content/dam/wage-fegc/documents/gba-/gba--resources-inclusive-event-planning/inclusive-inclusif-fr.pdf
 
-https://www.chartecultureaie.com/
+&nbsp;&nbsp;https://culturecotenord.com/wp-content/uploads/2023/06/Charte_FR.pdf
 
-Santé Canada (Unité du sexe et du genre) : Documents de planification d’événements EDSC : « Guide de planification de réunions inclusives » : https://www.canada.ca/fr/emploi-developpementsocial/programmes/invalidite/cra/reunions-inclusives.html
+&nbsp;&nbsp;https://www.chartecultureaie.com/
+
+&nbsp;&nbsp;Santé Canada (Unité du sexe et du genre) : Documents de planification d’événements EDSC : « Guide de planification de réunions inclusives » : https://www.canada.ca/fr/emploi-developpementsocial/programmes/invalidite/cra/reunions-inclusives.html
 
 ---
 

@@ -256,6 +256,28 @@ hr {
   height: auto;
 }
 
+.edi_intro {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 18px;
+  align-items: start;
+}
+
+.side-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+@media (max-width: 800px) {
+  .edi_intro {
+    grid-template-columns: 1fr;
+  }
+  .side-image {
+    max-width: 360px;
+  }
+}
+
 /* Prgram table */
 table.program {
   width: 100%;
