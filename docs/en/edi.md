@@ -56,19 +56,19 @@ The sentinels are volunteers who are particularly sensitive to issues related to
 
 In the event of an incident, a solution will be discussed, focusing on the victim's experience.
 
-&nbsp;&nbsp;**This event has been organized within the limits of the human, material, and financial resources of the various committees involved on a voluntary basis.*
+&nbsp;&nbsp;&nbsp;&nbsp;**This event has been organized within the limits of the human, material, and financial resources of the various committees involved on a voluntary basis.*
 
 ---
 
 Sources used to write the charter:
 
-&nbsp;&nbsp;https://www.canada.ca/content/dam/wage-fegc/documents/gba-/gba--resources-inclusive-event-planning/inclusive-inclusif-fr.pdf
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.canada.ca/content/dam/wage-fegc/documents/gba-/gba--resources-inclusive-event-planning/inclusive-inclusif-fr.pdf
 
-&nbsp;&nbsp;https://culturecotenord.com/wp-content/uploads/2023/06/Charte_FR.pdf
+&nbsp;&nbsp;&nbsp;&nbsp;https://culturecotenord.com/wp-content/uploads/2023/06/Charte_FR.pdf
 
-&nbsp;&nbsp;https://www.chartecultureaie.com/
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.chartecultureaie.com/
 
-&nbsp;&nbsp;Santé Canada (Unité du sexe et du genre) : Documents de planification d’événements EDSC : « Guide de planification de réunions inclusives » : https://www.canada.ca/fr/emploi-developpementsocial/programmes/invalidite/cra/reunions-inclusives.html
+&nbsp;&nbsp;&nbsp;&nbsp;Santé Canada (Unité du sexe et du genre) : Documents de planification d’événements EDSC : « Guide de planification de réunions inclusives » : https://www.canada.ca/fr/emploi-developpementsocial/programmes/invalidite/cra/reunions-inclusives.html
 
 ---
 
